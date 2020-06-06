@@ -10,9 +10,11 @@
 Streamlit python script for the dashboard 
 
 3. Setup.sh
+
 ![](/Images/setup.png)
 
 4. requirements
+
 ![](Images/req.png)
 
 
