@@ -3,7 +3,8 @@ import pandas as pd
 import numpy as np 
 import seaborn as sns
 import matplotlib.pyplot as plt 
-
+import altair as alt
+import plotly.express as px
 # Add a title
 st.title('Liverpool Premier League: Journey to Winning the First Title in 30 Years')
 
@@ -28,6 +29,7 @@ st.title("Liverpool's Performance in Last Decade")
 
 #last decade
 chart1 = round((data.groupby('FY')[['FT_Winner','FT_Draw','FT_Loss']].sum()/38).mul(100),0)
+chart1 = chart1.reset_index()
 st.subheader('               Outcome of matches in each season (%)')
 st.bar_chart(chart1)
 
@@ -41,7 +43,7 @@ total = Manager.groupby('Manager').sum()
 st.subheader('                Outcome of matches by Manager (%)')
 Mang = round((total.div(total.sum(axis=1), axis=0)).mul(100),1)
 st.bar_chart(Mang)
-
+#st.pyplot()
 
 
 
