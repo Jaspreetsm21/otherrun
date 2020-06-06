@@ -11,7 +11,7 @@ st.title('Liverpool Premier League: Journey to Winning the First Title in 30 Yea
 st.write("The purpose of this dashboard is to look at Liverpool's journey in the last decade toward winning their first Premier league title in 30 Years. Using the data, I wanted to explore what things has contributed toward this success.")
 @st.cache
 def load_data(nrows):
-    data = pd.read_csv('liverpool.csv',nrows=nrows)
+    data = pd.read_csv('liverpool.csv',index_col=0,nrows=nrows)
     return data
 
 data = load_data(10000)
@@ -28,9 +28,12 @@ st.title("Liverpool's Performance in Last Decade")
 
 
 #last decade
-chart1 = round((data.groupby('FY')[['FT_Winner','FT_Draw','FT_Loss']].sum()/38).mul(100),0)
-chart1 = chart1.reset_index()
-chart1 = chart1.set_index('FY')
+chart = round((data.groupby('FY')[['FT_Winner','FT_Draw','FT_Loss']].sum()/38).mul(100),0)
+#chart1 = pd.melt(data, id_vars=['FY'], value_vars=['FT_Winner','FT_Draw','FT_Loss'])
+st.write(chart)
+chart1 = pd.DataFrame(chart)
+
+st.write(chart1)
 st.subheader('               Outcome of matches in each season (%)')
 st.bar_chart(chart1)
 
