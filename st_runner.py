@@ -3,7 +3,8 @@ import pandas as pd
 import numpy as np 
 import seaborn as sns
 import matplotlib.pyplot as plt 
-
+import altair as alt
+import plotly.express as px
 # Add a title
 st.title('Liverpool Premier League: Journey to Winning the First Title in 30 Years')
 
@@ -98,6 +99,11 @@ st.subheader("Average Number of Shots taken under Manager per Match")
 shots = data[['FY','Manager','HS', 'AS', 'HST', 'AST']]#pd.pivot_table(shot,index='Manager',columns=['HS', 'AS', 'HST', 'AST'],values='FY',aggfunc='mean')
 dd = shots.groupby('Manager').mean()
 
+#error at heroku deployed for index 
+dd = pd.DataFrame(dd).reset_index()
+dd = Mang.rename(columns={'Manager':'index'}).set_index('index')
+
+
 st.line_chart(dd)
 st.write('Liverpool has more shots taken at Home(HS) and which correlates with shots on target at home matches (HST).So, we can say that liverpool win more matches at home because they take more shots and hit the target.')
 
@@ -115,7 +121,12 @@ spend = new_data[['Year', 'Spending', 'FT_Draw', 'FT_Loss', 'FT_Winner']]
 
 tra =spend.groupby('Spending').sum().reset_index()
 fin = transfer.merge(tra,left_on='Spending',right_on='Spending')
-fin = fin.set_index('Year')
+#fin = fin.set_index('Year')
+
+#error at heroku deployed for index 
+
+fin = Mang.rename(columns={'Year':'index'}).set_index('index')
+
 st.subheader('Liverpool Spending on transfers')
 
 
