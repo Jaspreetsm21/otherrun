@@ -30,6 +30,7 @@ st.title("Liverpool's Performance in Last Decade")
 #last decade
 chart1 = round((data.groupby('FY')[['FT_Winner','FT_Draw','FT_Loss']].sum()/38).mul(100),0)
 chart1 = chart1.reset_index()
+chart1 = chart1.set_index('FY')
 st.subheader('               Outcome of matches in each season (%)')
 st.bar_chart(chart1)
 
@@ -39,7 +40,8 @@ st.write('The first half of the decade Liverpool had more loss compared to draw 
 #Manager
 Manager = data[['FY','Manager','FT_Winner','FT_Draw','FT_Loss']]
 total = Manager.groupby('Manager').sum()
-
+total = total.reset_index()
+total = total.set_index('Manager')
 st.subheader('                Outcome of matches by Manager (%)')
 Mang = round((total.div(total.sum(axis=1), axis=0)).mul(100),1)
 st.bar_chart(Mang)
