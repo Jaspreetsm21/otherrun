@@ -3,8 +3,7 @@ import pandas as pd
 import numpy as np 
 import seaborn as sns
 import matplotlib.pyplot as plt 
-import altair as alt
-import plotly.express as px
+
 # Add a title
 st.title('Liverpool Premier League: Journey to Winning the First Title in 30 Years')
 
@@ -29,12 +28,13 @@ st.title("Liverpool's Performance in Last Decade")
 
 #last decade
 chart = round((data.groupby('FY')[['FT_Winner','FT_Draw','FT_Loss']].sum()/38).mul(100),0)
-#chart1 = pd.melt(data, id_vars=['FY'], value_vars=['FT_Winner','FT_Draw','FT_Loss'])
-st.write(chart)
+
+
+#error at heroku deployed for index 
 chart1 = pd.DataFrame(chart).reset_index()
 chart1 = chart1.rename(columns={'FY':'index'}).set_index('index')
 
-st.write(chart1)
+#st.write(chart1)
 st.subheader('               Outcome of matches in each season (%)')
 st.bar_chart(chart1)
 
@@ -48,6 +48,11 @@ total = total.reset_index()
 total = total.set_index('Manager')
 st.subheader('                Outcome of matches by Manager (%)')
 Mang = round((total.div(total.sum(axis=1), axis=0)).mul(100),1)
+
+#error at heroku deployed for index 
+Mang = pd.DataFrame(Mang).reset_index()
+Mang = Mang.rename(columns={'Manager':'index'}).set_index('index')
+
 st.bar_chart(Mang)
 #st.pyplot()
 
@@ -112,6 +117,9 @@ tra =spend.groupby('Spending').sum().reset_index()
 fin = transfer.merge(tra,left_on='Spending',right_on='Spending')
 fin = fin.set_index('Year')
 st.subheader('Liverpool Spending on transfers')
+
+
+
 st.bar_chart(fin)
 st.write('From the graph above, Liverpool has spend on average £43.5M in transfer each season between 2011-2016 and last season liverpool spend £143M - Buying a new goalkeeper for £56M. The Correlation between transfers and winning can be seen through each season - more spending has resulted in more wins.')
 
