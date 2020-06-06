@@ -1,8 +1,3 @@
-# Modified from
-# https://github.com/MaartenGr/streamlit_guide/blob/master/Procfile
-# and
-# https://github.com/MaartenGr/streamlit_guide/blob/master/setup.sh
-
 mkdir -p ~/.streamlit/
 
 echo "\
