@@ -11,7 +11,7 @@ st.title('Liverpool Premier League: Journey to Winning the First Title in 30 Yea
 st.write("The purpose of this dashboard is to look at Liverpool's journey in the last decade toward winning their first Premier league title in 30 Years. Using the data, I wanted to explore what things has contributed toward this success.")
 @st.cache
 def load_data(nrows):
-    data = pd.read_csv('liverpool.csv',index_col=0,nrows=nrows)
+    data = pd.read_csv('liverpool.csv',nrows=nrows)
     return data
 
 data = load_data(10000)
