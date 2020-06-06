@@ -1,56 +1,119 @@
-import streamlit as st
-import os
-import sys
-import importlib.util
+import streamlit as st 
+import pandas as pd 
+import numpy as np 
+import seaborn as sns
+import matplotlib.pyplot as plt 
 
-# Parse command-line arguments.
-if len(sys.argv) > 1:
-    folder = os.path.abspath(sys.argv[1])
-else:
-    folder = os.path.abspath(os.getcwd())
+# Add a title
+st.title('Liverpool Premier League: Journey to Winning the First Title in 30 Years')
 
-# Get filenames for all files in this path, excluding this script.
+st.write("The purpose of this dashboard is to look at Liverpool's journey in the last decade toward winning their first Premier league title in 30 Years. Using the data, I wanted to explore what things has contributed toward this success.")
+@st.cache
+def load_data(nrows):
+    data = pd.read_csv('liverpool.csv',index_col=0,nrows=nrows)
+    return data
 
-this_file = os.path.abspath(__file__)
-fnames = []
+data = load_data(10000)
+st.text('Structure of the Dataset')
 
-for basename in os.listdir(folder):
-    fname = os.path.join(folder, basename)
+# cols = ["FY", "Manager", "Diff_Score", "FT_Winner", "FT_Draw","FT_Loss"]
+# st_ms = st.multiselect("Columns", data.columns.tolist(), default=cols)
 
-    if fname.endswith(".py") and fname != this_file:
-        fnames.append(fname)
+if st.checkbox('view data'):
+    st.write(data)
 
-# Make a UI to run different files.
-def format_func(s):
-    els = s.split("/")[-1].split(".")[0].split("_")
-    return " ".join(el for el in els).capitalize()
-
-
-fname_to_run = st.sidebar.selectbox(
-    "Select an app", fnames, format_func=format_func
-)
-
-# Create module from filepath and put in sys.modules, so Streamlit knows
-# to watch it for changes.
-
-fake_module_count = 0
+# 
+st.title("Liverpool's Performance in Last Decade")
 
 
-def load_module(filepath):
-    global fake_module_count
+#last decade
+chart1 = round((data.groupby('FY')[['FT_Winner','FT_Draw','FT_Loss']].sum()/38).mul(100),0)
+st.subheader('               Outcome of matches in each season (%)')
+st.bar_chart(chart1)
 
-    modulename = "_dont_care_%s" % fake_module_count
-    spec = importlib.util.spec_from_file_location(modulename, filepath)
-    module = importlib.util.module_from_spec(spec)
-    sys.modules[modulename] = module
-
-    fake_module_count += 1
+st.write('The first half of the decade Liverpool had more loss compared to draw and second half of the decade it converted loss into draws, which has resulted in more winners last season.')
 
 
-# Run the selected file.
+#Manager
+Manager = data[['FY','Manager','FT_Winner','FT_Draw','FT_Loss']]
+total = Manager.groupby('Manager').sum()
 
-with open(fname_to_run) as f:
-    load_module(fname_to_run)
-    filebody = f.read()
+st.subheader('                Outcome of matches by Manager (%)')
+Mang = round((total.div(total.sum(axis=1), axis=0)).mul(100),1)
+st.bar_chart(Mang)
 
-exec(filebody, {})
+
+
+
+#Home vs Away
+st.subheader("Liverpool's Performance Home vs Away")
+
+More = data[['FY','Manager','FT_Winner','FT_Draw','FT_Loss','Home_Win','Away_Win','Home_Draw','Away_Draw','Home_Loss','Away_Loss']]
+HA = More.groupby('Manager').sum()
+#HA['Total_Matches'] = HA['FT_Winner']+ HA['FT_Draw']+ HA['FT_Loss']
+HH = HA[['Home_Win', 'Away_Win', 'Home_Draw',
+       'Away_Draw', 'Home_Loss', 'Away_Loss']]
+
+plt.style.use('ggplot')
+sns.set_style('darkgrid')
+HH.plot(kind='bar',figsize=(12,10))#
+plt.xticks(rotation=360)
+plt.tick_params(axis='both', which='major', labelsize=15,labelcolor='black') 
+plt.title('Performance at Home vs Away by Manager',fontsize=18)
+plt.ylabel('Outcome Matches')
+st.pyplot()
+
+st.write('Under Kloop the average target shot for both Home and away matches are lowest among his peers however he still has more wins compare to other managers. This is interesting, it would be good to look into the margin of victories?')
+
+
+#Difference Score 
+st.subheader("Liverpool's Score Differencce")
+
+score = pd.pivot_table(data,index='Diff_Score',columns='Manager',values='Date',aggfunc='count')
+sns.set_style('darkgrid')
+ax =plt.figure(figsize=(15,12))
+ax = score.plot(kind='bar',figsize=(14,10))
+ax = plt.xlabel('Difference of Score')
+ax = plt.title('Difference of Score by Manager',fontsize=18)
+ax = plt.tick_params(axis='both', which='major', labelsize=15,labelcolor='black') 
+st.pyplot()
+
+st.write('Jürgen Klopp has a distribution toward right hand side, he has the most draws and majority of this winners are difference of 1 or 2 goals.')
+#Number of Shot 
+st.subheader("Average Number of Shots taken under Manager per Match")
+#shot = data[['FY','Manager','FT_Winner','FT_Draw','FT_Loss','HS', 'AS', 'HST', 'AST']]
+shots = data[['FY','Manager','HS', 'AS', 'HST', 'AST']]#pd.pivot_table(shot,index='Manager',columns=['HS', 'AS', 'HST', 'AST'],values='FY',aggfunc='mean')
+dd = shots.groupby('Manager').mean()
+
+st.line_chart(dd)
+st.write('Liverpool has more shots taken at Home(HS) and which correlates with shots on target at home matches (HST).So, we can say that liverpool win more matches at home because they take more shots and hit the target.')
+
+
+
+@st.cache
+def load_data(nrows):
+    data = pd.read_csv('transfer.csv',nrows=nrows)
+    return data
+
+transfer = load_data(1000)
+new_data = transfer.merge(data,left_on=transfer['Year'],right_on='FY')
+
+spend = new_data[['Year', 'Spending', 'FT_Draw', 'FT_Loss', 'FT_Winner']]
+
+tra =spend.groupby('Spending').sum().reset_index()
+fin = transfer.merge(tra,left_on='Spending',right_on='Spending')
+fin = fin.set_index('Year')
+st.subheader('Liverpool Spending on transfers')
+st.bar_chart(fin)
+st.write('From the graph above, Liverpool has spend on average £43.5M in transfer each season between 2011-2016 and last season liverpool spend £143M - Buying a new goalkeeper for £56M. The Correlation between transfers and winning can be seen through each season - more spending has resulted in more wins.')
+
+
+fin['Spending'] =-(fin['Spending'])
+corr = fin.corr()
+st.subheader('Correlation between spending and the outcome of the match')
+st.table(corr)
+
+
+
+if __name__ == "__main__":
+    main()
