@@ -1,0 +1,381 @@
+,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR,FY,MatchWinner,halftimeWinner,FT_Point,FT_Winner,FT_Draw,FT_Loss,HT_Winner,HT_Draw,HT_Loss,Target_Home%,Target_Away%,Manager,Home_Win,Away_Win,Home_Loss,Away_Loss,Home_Draw,Away_Draw,Diff_Score
+9,2009-08-16,Tottenham,Liverpool,2,1,H,1,0,H,P Dowd,17,6,11,3,14,16,6,5,3,3,0,0,FY0910,Tottenham,Tottenham,0,0,0,1,0,0,1,64.71,50.0,Rafael Benítez,0,0,0,1,0,0,-1
+15,2009-08-19,Liverpool,Stoke,4,0,H,2,0,H,P Walton,18,6,13,3,10,9,11,5,0,1,0,0,FY0910,Liverpool,Liverpool,3,1,0,0,1,0,0,72.22,50.0,Rafael Benítez,1,0,0,0,0,0,4
+25,2009-08-24,Liverpool,Aston Villa,1,3,A,0,2,A,M Atkinson,21,7,12,4,15,11,10,4,3,2,0,0,FY0910,Aston Villa,Aston Villa,0,0,0,1,0,0,1,57.14,57.14,Rafael Benítez,0,0,1,0,0,0,-2
+27,2009-08-29,Bolton,Liverpool,2,3,A,1,1,D,A Wiley,8,26,5,14,14,7,5,11,3,1,1,0,FY0910,Liverpool,draw,3,1,0,0,0,1,1,62.5,53.85,Rafael Benítez,0,1,0,0,0,0,1
+37,2009-12-09,Liverpool,Burnley,4,0,H,2,0,H,L Mason,27,6,16,3,8,10,7,5,0,2,0,0,FY0910,Liverpool,Liverpool,3,1,0,0,1,0,0,59.26,50.0,Rafael Benítez,1,0,0,0,0,0,4
+51,2009-09-19,West Ham,Liverpool,2,3,A,2,2,D,A Marriner,8,19,5,15,13,17,4,4,3,3,0,0,FY0910,Liverpool,draw,3,1,0,0,0,1,1,62.5,78.95,Rafael Benítez,0,1,0,0,0,0,1
+59,2009-09-26,Liverpool,Hull,6,1,H,2,1,H,P Walton,22,7,14,3,10,3,13,2,1,4,0,0,FY0910,Liverpool,Liverpool,3,1,0,0,1,0,0,63.64,42.86,Rafael Benítez,1,0,0,0,0,0,5
+72,2009-04-10,Chelsea,Liverpool,2,0,H,0,0,D,M Atkinson,12,12,8,3,14,17,5,8,1,1,0,0,FY0910,Chelsea,draw,0,0,0,1,0,1,1,66.67,25.0,Rafael Benítez,0,0,0,1,0,0,-2
+82,2009-10-17,Sunderland,Liverpool,1,0,H,1,0,H,M Jones,13,15,7,6,20,17,1,7,2,1,0,0,FY0910,Sunderland,Sunderland,0,0,0,1,0,0,1,53.85,40.0,Rafael Benítez,0,0,0,1,0,0,-1
+93,2009-10-25,Liverpool,Man United,2,0,H,0,0,D,A Marriner,11,7,6,5,20,11,5,1,2,3,1,1,FY0910,Liverpool,draw,3,1,0,0,0,1,1,54.55,71.43,Rafael Benítez,1,0,0,0,0,0,2
+100,2009-10-31,Fulham,Liverpool,3,1,H,1,1,D,L Mason,10,6,6,3,10,13,2,2,1,0,0,2,FY0910,Fulham,draw,0,0,0,1,0,1,1,60.0,50.0,Rafael Benítez,0,0,0,1,0,0,-2
+116,2009-09-11,Liverpool,Birmingham,2,2,D,1,2,A,P Walton,27,5,14,2,7,9,11,1,1,2,0,0,FY0910,draw,Birmingham,1,0,1,0,0,0,1,51.85,40.0,Rafael Benítez,0,0,0,0,1,0,0
+121,2009-11-21,Liverpool,Man City,2,2,D,0,0,D,P Dowd,10,9,6,6,9,13,7,3,2,0,0,0,FY0910,draw,draw,1,0,1,0,0,1,1,60.0,66.67,Rafael Benítez,0,0,0,0,1,0,0
+137,2009-11-29,Everton,Liverpool,0,2,A,0,1,A,A Wiley,12,9,8,7,15,12,6,4,1,0,0,0,FY0910,Liverpool,Liverpool,3,1,0,0,1,0,0,66.67,77.78,Rafael Benítez,0,1,0,0,0,0,2
+141,2009-05-12,Blackburn,Liverpool,0,0,D,0,0,D,M Atkinson,9,15,3,11,15,9,1,8,1,0,0,0,FY0910,draw,draw,1,0,1,0,0,1,1,33.33,73.33,Rafael Benítez,0,0,0,0,0,1,0
+158,2009-12-13,Liverpool,Arsenal,1,2,A,1,0,H,H Webb,6,7,3,5,19,16,3,4,3,3,0,0,FY0910,Arsenal,Liverpool,0,0,0,1,1,0,0,50.0,71.43,Rafael Benítez,0,0,1,0,0,0,-1
+165,2009-12-16,Liverpool,Wigan,2,1,H,1,0,H,P Dowd,12,8,7,5,12,11,13,0,1,1,0,0,FY0910,Liverpool,Liverpool,3,1,0,0,1,0,0,58.33,62.5,Rafael Benítez,1,0,0,0,0,0,1
+172,2009-12-19,Portsmouth,Liverpool,2,0,H,1,0,H,L Mason,14,7,6,3,7,12,8,10,3,3,0,1,FY0910,Portsmouth,Portsmouth,0,0,0,1,0,0,1,42.86,42.86,Rafael Benítez,0,0,0,1,0,0,-2
+179,2009-12-26,Liverpool,Wolves,2,0,H,0,0,D,A Marriner,14,6,10,2,9,10,7,1,0,1,0,1,FY0910,Liverpool,draw,3,1,0,0,0,1,1,71.43,33.33,Rafael Benítez,1,0,0,0,0,0,2
+192,2009-12-29,Aston Villa,Liverpool,0,1,A,0,0,D,L Probert,11,12,7,9,13,11,8,10,1,1,0,0,FY0910,Liverpool,draw,3,1,0,0,0,1,1,63.64,75.0,Rafael Benítez,0,1,0,0,0,0,1
+203,2010-01-16,Stoke,Liverpool,1,1,D,0,0,D,L Mason,6,4,5,3,14,10,10,0,1,2,0,0,FY0910,draw,draw,1,0,1,0,0,1,1,83.33,75.0,Rafael Benítez,0,0,0,0,0,1,0
+210,2010-01-20,Liverpool,Tottenham,2,0,H,1,0,H,H Webb,13,7,5,5,11,17,2,3,2,3,0,0,FY0910,Liverpool,Liverpool,3,1,0,0,1,0,0,38.46,71.43,Rafael Benítez,1,0,0,0,0,0,2
+215,2010-01-26,Wolves,Liverpool,0,0,D,0,0,D,P Walton,6,6,4,3,10,11,0,7,0,1,0,0,FY0910,draw,draw,1,0,1,0,0,1,1,66.67,50.0,Rafael Benítez,0,0,0,0,0,1,0
+224,2010-01-30,Liverpool,Bolton,2,0,H,1,0,H,S Bennett,13,4,6,1,12,10,11,3,1,3,0,0,FY0910,Liverpool,Liverpool,3,1,0,0,1,0,0,46.15,25.0,Rafael Benítez,1,0,0,0,0,0,2
+235,2010-06-02,Liverpool,Everton,1,0,H,0,0,D,M Atkinson,9,6,4,3,11,23,8,8,3,3,1,1,FY0910,Liverpool,draw,3,1,0,0,0,1,1,44.44,50.0,Rafael Benítez,1,0,0,0,0,0,1
+246,2010-10-02,Arsenal,Liverpool,1,0,H,0,0,D,H Webb,11,9,6,7,19,13,3,6,3,2,0,0,FY0910,Arsenal,draw,0,0,0,1,0,1,1,54.55,77.78,Roy Hodgson,0,0,0,1,0,0,-1
+262,2010-02-21,Man City,Liverpool,0,0,D,0,0,D,P Walton,4,6,1,2,7,15,8,5,1,6,0,0,FY0910,draw,draw,1,0,1,0,0,1,1,25.0,33.33,Rafael Benítez,0,0,0,0,0,1,0
+270,2010-02-28,Liverpool,Blackburn,2,1,H,2,1,H,A Wiley,12,12,6,7,10,22,4,5,1,5,0,0,FY0910,Liverpool,Liverpool,3,1,0,0,1,0,0,50.0,58.33,Rafael Benítez,1,0,0,0,0,0,1
+277,2010-08-03,Wigan,Liverpool,1,0,H,1,0,H,A Marriner,12,11,4,3,15,14,4,7,1,5,0,0,FY0910,Wigan,Wigan,0,0,0,1,0,0,1,33.33,27.27,Roy Hodgson,0,0,0,1,0,0,-1
+290,2010-03-15,Liverpool,Portsmouth,4,1,H,3,0,H,S Attwell,23,7,12,3,10,15,8,4,0,2,0,0,FY0910,Liverpool,Liverpool,3,1,0,0,1,0,0,52.17,42.86,Rafael Benítez,1,0,0,0,0,0,3
+301,2010-03-21,Man United,Liverpool,2,1,H,1,1,D,H Webb,10,4,5,2,10,15,1,2,2,3,0,0,FY0910,Man United,draw,0,0,0,1,0,1,1,50.0,50.0,Rafael Benítez,0,0,0,1,0,0,-1
+315,2010-03-28,Liverpool,Sunderland,3,0,H,2,0,H,P Dowd,25,7,16,2,11,9,9,2,0,1,0,0,FY0910,Liverpool,Liverpool,3,1,0,0,1,0,0,64.0,28.57,Rafael Benítez,1,0,0,0,0,0,3
+324,2010-04-04,Birmingham,Liverpool,1,1,D,0,0,D,M Atkinson,8,16,3,8,14,9,5,4,2,1,0,0,FY0910,draw,draw,1,0,1,0,0,1,1,37.5,50.0,Rafael Benítez,0,0,0,0,0,1,0
+330,2010-11-04,Liverpool,Fulham,0,0,D,0,0,D,A Marriner,18,2,9,2,6,16,10,1,1,3,0,0,FY0910,draw,draw,1,0,1,0,0,1,1,50.0,100.0,Roy Hodgson,0,0,0,0,1,0,0
+346,2010-04-19,Liverpool,West Ham,3,0,H,2,0,H,P Walton,17,6,8,2,8,12,9,2,0,2,0,0,FY0910,Liverpool,Liverpool,3,1,0,0,1,0,0,47.06,33.33,Rafael Benítez,1,0,0,0,0,0,3
+355,2010-04-25,Burnley,Liverpool,0,4,A,0,0,D,P Dowd,12,12,6,10,13,11,4,5,2,1,0,0,FY0910,Liverpool,draw,3,1,0,0,0,1,1,50.0,83.33,Rafael Benítez,0,1,0,0,0,0,4
+364,2010-02-05,Liverpool,Chelsea,0,2,A,0,1,A,A Wiley,7,15,2,11,7,7,9,5,1,2,0,0,FY0910,Chelsea,Chelsea,0,0,0,1,0,0,1,28.57,73.33,Rafael Benítez,0,0,1,0,0,0,-2
+376,2010-09-05,Hull,Liverpool,0,0,D,0,0,D,A Marriner,11,19,6,7,15,11,2,6,1,0,0,0,FY0910,draw,draw,1,0,1,0,0,1,1,54.55,36.84,Roy Hodgson,0,0,0,0,0,1,0
+388,2010-08-15,Liverpool,Arsenal,1,1,D,0,0,D,M Atkinson,7,14,4,7,13,15,9,11,1,3,1,1,FY1011,draw,draw,1,0,1,0,0,1,1,57.14,50.0,Roy Hodgson,0,0,0,0,1,0,0
+399,2010-08-23,Man City,Liverpool,3,0,H,1,0,H,P Dowd,8,13,3,7,13,12,5,4,1,1,0,0,FY1011,Man City,Man City,0,0,0,1,0,0,1,37.5,53.85,Roy Hodgson,0,0,0,1,0,0,-3
+408,2010-08-29,Liverpool,West Brom,1,0,H,0,0,D,L Probert,11,14,7,5,9,8,7,6,0,0,0,1,FY1011,Liverpool,draw,3,1,0,0,0,1,1,63.64,35.71,Roy Hodgson,1,0,0,0,0,0,1
+418,2010-12-09,Birmingham,Liverpool,0,0,D,0,0,D,M Halsey,15,14,3,8,8,9,4,3,1,0,0,0,FY1011,draw,draw,1,0,1,0,0,1,1,20.0,57.14,Roy Hodgson,0,0,0,0,0,1,0
+428,2010-09-19,Man United,Liverpool,3,2,H,1,0,H,H Webb,16,7,7,1,15,10,6,1,4,1,0,0,FY1011,Man United,Man United,0,0,0,1,0,0,1,43.75,14.29,Roy Hodgson,0,0,0,1,0,0,-1
+434,2010-09-25,Liverpool,Sunderland,2,2,D,1,1,D,S Attwell,13,10,5,1,15,7,3,3,3,1,0,0,FY1011,draw,draw,1,0,1,0,0,1,1,38.46,10.0,Roy Hodgson,0,0,0,0,1,0,0
+448,2010-03-10,Liverpool,Blackpool,1,2,A,0,2,A,M Jones,19,11,10,7,11,10,5,2,2,1,0,0,FY1011,Blackpool,Blackpool,0,0,0,1,0,0,1,52.63,63.64,Rafael Benítez,0,0,1,0,0,0,-1
+458,2010-10-17,Everton,Liverpool,2,0,H,1,0,H,H Webb,9,15,6,9,10,9,8,7,2,2,0,0,FY1011,Everton,Everton,0,0,0,1,0,0,1,66.67,60.0,Roy Hodgson,0,0,0,1,0,0,-2
+467,2010-10-24,Liverpool,Blackburn,2,1,H,0,0,D,P Dowd,17,4,10,2,17,12,15,4,2,3,0,0,FY1011,Liverpool,draw,3,1,0,0,0,1,1,58.82,50.0,Roy Hodgson,1,0,0,0,0,0,1
+477,2010-10-31,Bolton,Liverpool,0,1,A,0,0,D,M Atkinson,14,10,10,4,15,13,1,4,2,2,0,0,FY1011,Liverpool,draw,3,1,0,0,0,1,1,71.43,40.0,Roy Hodgson,0,1,0,0,0,0,1
+488,2010-07-11,Liverpool,Chelsea,2,0,H,2,0,H,H Webb,9,11,7,7,15,17,2,5,0,2,0,0,FY1011,Liverpool,Liverpool,3,1,0,0,1,0,0,77.78,63.64,Roy Hodgson,1,0,0,0,0,0,2
+498,2010-10-11,Wigan,Liverpool,1,1,D,0,1,A,P Walton,10,8,8,3,7,10,5,4,0,2,0,0,FY1011,draw,Liverpool,1,0,1,0,1,0,0,80.0,37.5,Roy Hodgson,0,0,0,0,0,1,0
+503,2010-11-13,Stoke,Liverpool,2,0,H,0,0,D,M Halsey,14,10,7,6,14,10,4,3,2,3,0,1,FY1011,Stoke,draw,0,0,0,1,0,1,1,50.0,60.0,Roy Hodgson,0,0,0,1,0,0,-2
+514,2010-11-20,Liverpool,West Ham,3,0,H,3,0,H,L Probert,19,6,11,1,8,8,10,2,0,1,0,0,FY1011,Liverpool,Liverpool,3,1,0,0,1,0,0,57.89,16.67,Roy Hodgson,1,0,0,0,0,0,3
+529,2010-11-28,Tottenham,Liverpool,2,1,H,0,1,A,M Atkinson,20,12,13,8,6,16,5,8,0,5,0,0,FY1011,Tottenham,Liverpool,0,0,0,1,1,0,0,65.0,66.67,Roy Hodgson,0,0,0,1,0,0,-1
+538,2010-06-12,Liverpool,Aston Villa,3,0,H,2,0,H,P Dowd,12,5,7,2,12,13,4,3,0,1,0,0,FY1011,Liverpool,Liverpool,3,1,0,0,1,0,0,58.33,40.0,Roy Hodgson,1,0,0,0,0,0,3
+542,2010-11-12,Newcastle,Liverpool,3,1,H,1,0,H,L Mason,8,16,5,7,19,13,2,5,2,1,0,0,FY1011,Newcastle,Newcastle,0,0,0,1,0,0,1,62.5,43.75,Roy Hodgson,0,0,0,1,0,0,-2
+568,2010-12-29,Liverpool,Wolves,0,1,A,0,0,D,P Walton,9,7,5,3,8,11,2,8,1,1,0,0,FY1011,Wolves,draw,0,0,0,1,0,1,1,55.56,42.86,Roy Hodgson,0,0,1,0,0,0,-1
+571,2011-01-01,Liverpool,Bolton,2,1,H,0,1,A,K Friend,16,10,7,4,11,16,7,4,2,2,0,0,FY1011,Liverpool,Bolton,3,1,0,0,0,0,1,43.75,40.0,Roy Hodgson,1,0,0,0,0,0,1
+585,2011-05-01,Blackburn,Liverpool,3,1,H,2,0,H,A Marriner,10,13,4,9,14,13,0,7,1,1,0,0,FY1011,Blackburn,Blackburn,0,0,0,1,0,0,1,40.0,69.23,Kenny Dalglish,0,0,0,1,0,0,-2
+590,2011-12-01,Blackpool,Liverpool,2,1,H,1,1,D,M Oliver,13,10,9,6,6,13,3,3,1,3,0,0,FY1011,Blackpool,draw,0,0,0,1,0,1,1,69.23,60.0,Kenny Dalglish,0,0,0,1,0,0,-1
+598,2011-01-16,Liverpool,Everton,2,2,D,1,0,H,P Dowd,19,10,14,5,16,17,10,6,3,0,0,0,FY1011,draw,Liverpool,1,0,1,0,1,0,0,73.68,50.0,Kenny Dalglish,0,0,0,0,1,0,0
+608,2011-01-22,Wolves,Liverpool,0,3,A,0,1,A,M Atkinson,11,15,4,10,6,17,5,4,0,3,0,0,FY1011,Liverpool,Liverpool,3,1,0,0,1,0,0,36.36,66.67,Kenny Dalglish,0,1,0,0,0,0,3
+613,2011-01-26,Liverpool,Fulham,1,0,H,0,0,D,L Probert,11,12,7,8,11,10,6,2,0,0,0,0,FY1011,Liverpool,draw,3,1,0,0,0,1,1,63.64,66.67,Kenny Dalglish,1,0,0,0,0,0,1
+623,2011-02-02,Liverpool,Stoke,2,0,H,0,0,D,A Taylor,13,6,9,1,6,8,7,0,1,4,0,0,FY1011,Liverpool,draw,3,1,0,0,0,1,1,69.23,16.67,Kenny Dalglish,1,0,0,0,0,0,2
+632,2011-06-02,Chelsea,Liverpool,0,1,A,0,0,D,A Marriner,14,7,4,4,9,9,4,3,1,1,0,0,FY1011,Liverpool,draw,3,1,0,0,0,1,1,28.57,57.14,Kenny Dalglish,0,1,0,0,0,0,1
+638,2011-12-02,Liverpool,Wigan,1,1,D,1,0,H,K Friend,13,8,5,2,11,17,8,5,1,3,0,0,FY1011,draw,Liverpool,1,0,1,0,1,0,0,38.46,25.0,Kenny Dalglish,0,0,0,0,1,0,0
+654,2011-02-27,West Ham,Liverpool,3,1,H,2,0,H,M Halsey,17,12,11,8,10,8,6,8,0,1,0,0,FY1011,West Ham,West Ham,0,0,0,1,0,0,1,64.71,66.67,Kenny Dalglish,0,0,0,1,0,0,-2
+664,2011-06-03,Liverpool,Man United,3,1,H,2,0,H,P Dowd,17,12,10,7,12,12,6,4,2,3,0,0,FY1011,Liverpool,Liverpool,3,1,0,0,1,0,0,58.82,58.33,Kenny Dalglish,1,0,0,0,0,0,2
+677,2011-03-20,Sunderland,Liverpool,0,2,A,0,1,A,K Friend,3,10,1,4,11,7,3,6,3,3,1,0,FY1011,Liverpool,Liverpool,3,1,0,0,1,0,0,33.33,40.0,Kenny Dalglish,0,1,0,0,0,0,2
+683,2011-02-04,West Brom,Liverpool,2,1,H,0,0,D,M Atkinson,17,13,14,9,10,15,0,5,2,3,0,0,FY1011,West Brom,draw,0,0,0,1,0,1,1,82.35,69.23,Kenny Dalglish,0,0,0,1,0,0,-1
+697,2011-11-04,Liverpool,Man City,3,0,H,3,0,H,M Halsey,15,13,7,4,6,3,6,2,1,0,0,0,FY1011,Liverpool,Liverpool,3,1,0,0,1,0,0,46.67,30.77,Kenny Dalglish,1,0,0,0,0,0,3
+703,2011-04-17,Arsenal,Liverpool,1,1,D,0,0,D,A Marriner,12,9,6,5,13,13,10,3,2,4,0,0,FY1011,draw,draw,1,0,1,0,0,1,1,50.0,55.56,Kenny Dalglish,0,0,0,0,0,1,0
+710,2011-04-23,Liverpool,Birmingham,5,0,H,2,0,H,H Webb,17,10,13,6,7,12,5,2,1,0,0,0,FY1011,Liverpool,Liverpool,3,1,0,0,1,0,0,76.47,60.0,Kenny Dalglish,1,0,0,0,0,0,5
+727,2011-01-05,Liverpool,Newcastle,3,0,H,1,0,H,P Walton,9,7,5,3,15,10,3,12,1,2,0,0,FY1011,Liverpool,Liverpool,3,1,0,0,1,0,0,55.56,42.86,Roy Hodgson,1,0,0,0,0,0,3
+738,2011-09-05,Fulham,Liverpool,2,5,A,0,3,A,L Mason,10,16,7,11,18,11,6,5,5,2,0,0,FY1011,Liverpool,Liverpool,3,1,0,0,1,0,0,70.0,68.75,Kenny Dalglish,0,1,0,0,0,0,3
+747,2011-05-15,Liverpool,Tottenham,0,2,A,0,1,A,H Webb,10,8,2,4,13,7,11,5,2,1,0,0,FY1011,Tottenham,Tottenham,0,0,0,1,0,0,1,20.0,50.0,Kenny Dalglish,0,0,1,0,0,0,-2
+750,2011-05-22,Aston Villa,Liverpool,1,0,H,1,0,H,L Probert,10,9,8,4,12,12,4,5,2,2,0,0,FY1011,Aston Villa,Aston Villa,0,0,0,1,0,0,1,80.0,44.44,Kenny Dalglish,0,0,0,1,0,0,-1
+762,2011-08-13,Liverpool,Sunderland,1,1,D,1,0,H,P Dowd,11,15,4,6,17,12,6,3,4,4,0,0,FY1112,draw,Liverpool,1,0,1,0,1,0,0,36.36,40.0,Kenny Dalglish,0,0,0,0,1,0,0
+769,2011-08-20,Arsenal,Liverpool,0,2,A,0,0,D,M Atkinson,10,13,6,8,11,6,9,5,2,2,1,0,FY1112,Liverpool,draw,3,1,0,0,0,1,1,60.0,61.54,Kenny Dalglish,0,1,0,0,0,0,2
+782,2011-08-27,Liverpool,Bolton,3,1,H,1,0,H,L Probert,17,7,9,4,5,7,12,6,0,2,0,0,FY1112,Liverpool,Liverpool,3,1,0,0,1,0,0,52.94,57.14,Kenny Dalglish,1,0,0,0,0,0,2
+793,2011-10-09,Stoke,Liverpool,1,0,H,1,0,H,M Clattenburg,3,20,1,11,12,13,2,12,0,1,0,0,FY1112,Stoke,Stoke,0,0,0,1,0,0,1,33.33,55.0,Kenny Dalglish,0,0,0,1,0,0,-1
+808,2011-09-18,Tottenham,Liverpool,4,0,H,1,0,H,M Jones,24,5,16,2,10,9,4,1,1,4,0,2,FY1112,Tottenham,Tottenham,0,0,0,1,0,0,1,66.67,40.0,Kenny Dalglish,0,0,0,1,0,0,-4
+811,2011-09-24,Liverpool,Wolves,2,1,H,2,0,H,K Friend,14,11,6,6,15,6,7,2,3,4,0,0,FY1112,Liverpool,Liverpool,3,1,0,0,1,0,0,42.86,54.55,Kenny Dalglish,1,0,0,0,0,0,1
+821,2011-01-10,Everton,Liverpool,0,2,A,0,0,D,M Atkinson,12,15,4,9,15,9,5,9,1,1,1,0,FY1112,Liverpool,draw,3,1,0,0,0,1,1,33.33,60.0,Kenny Dalglish,0,1,0,0,0,0,2
+830,2011-10-15,Liverpool,Man United,1,1,D,0,0,D,A Marriner,14,10,8,3,8,11,8,3,1,3,0,0,FY1112,draw,draw,1,0,1,0,0,1,1,57.14,30.0,Kenny Dalglish,0,0,0,0,1,0,0
+841,2011-10-22,Liverpool,Norwich,1,1,D,1,0,H,P Walton,25,12,15,10,6,8,10,3,0,1,0,0,FY1112,draw,Liverpool,1,0,1,0,1,0,0,60.0,83.33,Kenny Dalglish,0,0,0,0,1,0,0
+855,2011-10-29,West Brom,Liverpool,0,2,A,0,2,A,L Mason,10,17,6,7,12,9,3,10,1,0,0,0,FY1112,Liverpool,Liverpool,3,1,0,0,1,0,0,60.0,41.18,Kenny Dalglish,0,1,0,0,0,0,2
+862,2011-05-11,Liverpool,Swansea,0,0,D,0,0,D,P Dowd,18,9,10,3,13,5,11,4,2,1,0,0,FY1112,draw,draw,1,0,1,0,0,1,1,55.56,33.33,Kenny Dalglish,0,0,0,0,1,0,0
+877,2011-11-20,Chelsea,Liverpool,1,2,A,0,1,A,L Probert,18,9,5,3,13,11,6,5,3,2,0,0,FY1112,Liverpool,Liverpool,3,1,0,0,1,0,0,27.78,33.33,Kenny Dalglish,0,1,0,0,0,0,1
+887,2011-11-27,Liverpool,Man City,1,1,D,1,1,D,M Atkinson,17,7,9,3,11,13,8,5,1,4,0,1,FY1112,draw,draw,1,0,1,0,0,1,1,52.94,42.86,Kenny Dalglish,0,0,0,0,1,0,0
+898,2011-05-12,Fulham,Liverpool,1,0,H,0,0,D,K Friend,19,17,13,9,12,9,2,10,3,1,0,1,FY1112,Fulham,draw,0,0,0,1,0,1,1,68.42,52.94,Kenny Dalglish,0,0,0,1,0,0,-1
+901,2011-10-12,Liverpool,QPR,1,0,H,0,0,D,L Mason,21,6,15,2,12,5,17,5,2,0,0,0,FY1112,Liverpool,draw,3,1,0,0,0,1,1,71.43,33.33,Kenny Dalglish,1,0,0,0,0,0,1
+915,2011-12-18,Aston Villa,Liverpool,0,2,A,0,2,A,P Walton,16,19,8,12,5,14,4,10,1,2,0,0,FY1112,Liverpool,Liverpool,3,1,0,0,1,0,0,50.0,63.16,Kenny Dalglish,0,1,0,0,0,0,2
+927,2011-12-21,Wigan,Liverpool,0,0,D,0,0,D,M Oliver,15,18,10,10,16,12,7,14,1,2,0,0,FY1112,draw,draw,1,0,1,0,0,1,1,66.67,55.56,Kenny Dalglish,0,0,0,0,0,1,0
+931,2011-12-26,Liverpool,Blackburn,1,1,D,0,1,A,M Jones,28,5,13,2,5,15,9,2,1,0,0,0,FY1112,draw,Blackburn,1,0,1,0,0,0,1,46.43,40.0,Kenny Dalglish,0,0,0,0,1,0,0
+939,2011-12-30,Liverpool,Newcastle,3,1,H,1,1,D,L Probert,15,5,7,2,7,11,7,0,0,2,0,0,FY1112,Liverpool,draw,3,1,0,0,0,1,1,46.67,40.0,Kenny Dalglish,1,0,0,0,0,0,2
+954,2012-03-01,Man City,Liverpool,3,0,H,2,0,H,M Jones,10,18,8,10,13,7,5,6,1,2,1,0,FY1112,Man City,Man City,0,0,0,1,0,0,1,80.0,55.56,Kenny Dalglish,0,0,0,1,0,0,-3
+963,2012-01-14,Liverpool,Stoke,0,0,D,0,0,D,H Webb,13,3,5,1,6,11,11,1,0,3,0,0,FY1112,draw,draw,1,0,1,0,0,1,1,38.46,33.33,Kenny Dalglish,0,0,0,0,1,0,0
+970,2012-01-21,Bolton,Liverpool,3,1,H,2,1,H,K Friend,15,11,8,8,10,13,5,5,0,2,0,0,FY1112,Bolton,Bolton,0,0,0,1,0,0,1,53.33,72.73,Kenny Dalglish,0,0,0,1,0,0,-2
+984,2012-01-31,Wolves,Liverpool,0,3,A,0,0,D,A Taylor,5,23,1,14,6,8,5,4,1,3,0,0,FY1112,Liverpool,draw,3,1,0,0,0,1,1,20.0,60.87,Kenny Dalglish,0,1,0,0,0,0,3
+999,2012-06-02,Liverpool,Tottenham,0,0,D,0,0,D,M Oliver,15,9,10,6,6,11,7,4,2,2,0,0,FY1112,draw,draw,1,0,1,0,0,1,1,66.67,66.67,Brendan Rodgers,0,0,0,0,1,0,0
+1004,2012-11-02,Man United,Liverpool,2,1,H,0,0,D,P Dowd,11,9,6,6,10,11,4,3,1,1,0,0,FY1112,Man United,draw,0,0,0,1,0,1,1,54.55,66.67,Brendan Rodgers,0,0,0,1,0,0,-1
+1020,2012-03-03,Liverpool,Arsenal,1,2,A,1,1,D,M Halsey,12,10,4,7,11,9,12,0,0,1,0,0,FY1112,Arsenal,draw,0,0,0,1,0,1,1,33.33,70.0,Kenny Dalglish,0,0,1,0,0,0,-1
+1033,2012-10-03,Sunderland,Liverpool,1,0,H,0,0,D,A Taylor,6,9,1,5,13,15,3,2,1,1,0,0,FY1112,Sunderland,draw,0,0,0,1,0,1,1,16.67,55.56,Brendan Rodgers,0,0,0,1,0,0,-1
+1039,2012-03-13,Liverpool,Everton,3,0,H,1,0,H,P Dowd,15,5,10,3,6,7,4,4,1,4,0,0,FY1112,Liverpool,Liverpool,3,1,0,0,1,0,0,66.67,60.0,Kenny Dalglish,1,0,0,0,0,0,3
+1047,2012-03-21,QPR,Liverpool,3,2,H,0,0,D,H Webb,10,18,5,11,8,6,7,17,0,0,0,0,FY1112,QPR,draw,0,0,0,1,0,1,1,50.0,61.11,Kenny Dalglish,0,0,0,1,0,0,-1
+1052,2012-03-24,Liverpool,Wigan,1,2,A,0,1,A,L Mason,12,6,9,5,14,10,6,0,1,2,0,0,FY1112,Wigan,Wigan,0,0,0,1,0,0,1,75.0,83.33,Kenny Dalglish,0,0,1,0,0,0,-1
+1066,2012-01-04,Newcastle,Liverpool,2,0,H,1,0,H,M Atkinson,11,9,7,6,10,11,3,6,3,3,0,1,FY1112,Newcastle,Newcastle,0,0,0,1,0,0,1,63.64,66.67,Kenny Dalglish,0,0,0,1,0,0,-2
+1072,2012-07-04,Liverpool,Aston Villa,1,1,D,0,1,A,M Oliver,21,5,5,3,4,9,11,3,1,1,0,0,FY1112,draw,Aston Villa,1,0,1,0,0,0,1,23.81,60.0,Brendan Rodgers,0,0,0,0,1,0,0
+1084,2012-10-04,Blackburn,Liverpool,2,3,A,1,2,A,A Taylor,10,16,4,12,16,12,4,4,4,5,0,1,FY1112,Liverpool,Liverpool,3,1,0,0,1,0,0,40.0,75.0,Brendan Rodgers,0,1,0,0,0,0,1
+1102,2012-04-22,Liverpool,West Brom,0,1,A,0,0,D,N Swarbrick,28,9,12,4,10,8,15,3,2,0,0,0,FY1112,West Brom,draw,0,0,0,1,0,1,1,42.86,44.44,Kenny Dalglish,0,0,1,0,0,0,-1
+1107,2012-04-28,Norwich,Liverpool,0,3,A,0,2,A,M Halsey,8,15,3,9,9,4,5,7,4,0,0,0,FY1112,Liverpool,Liverpool,3,1,0,0,1,0,0,37.5,60.0,Kenny Dalglish,0,1,0,0,0,0,3
+1116,2012-01-05,Liverpool,Fulham,0,1,A,0,1,A,L Probert,18,7,5,4,11,7,5,4,0,0,0,0,FY1112,Fulham,Fulham,0,0,0,1,0,0,1,27.78,57.14,Kenny Dalglish,0,0,1,0,0,0,-1
+1129,2012-08-05,Liverpool,Chelsea,4,1,H,3,0,H,K Friend,23,9,13,5,15,13,7,4,2,4,0,0,FY1112,Liverpool,Liverpool,3,1,0,0,1,0,0,56.52,55.56,Brendan Rodgers,1,0,0,0,0,0,3
+1136,2012-05-13,Swansea,Liverpool,1,0,H,0,0,D,M Halsey,13,14,8,9,5,5,6,5,1,1,0,0,FY1112,Swansea,draw,0,0,0,1,0,1,1,61.54,64.29,Kenny Dalglish,0,0,0,1,0,0,-1
+1145,2012-08-18,West Brom,Liverpool,3,0,H,1,0,H,P Dowd,15,14,10,7,10,11,7,3,1,4,0,1,FY1213,West Brom,West Brom,0,0,0,1,0,0,1,66.67,50.0,Brendan Rodgers,0,0,0,1,0,0,-3
+1158,2012-08-26,Liverpool,Man City,2,2,D,1,0,H,A Marriner,15,11,8,5,10,7,4,4,1,0,0,0,FY1213,draw,Liverpool,1,0,1,0,1,0,0,53.33,45.45,Brendan Rodgers,0,0,0,0,1,0,0
+1166,2012-02-09,Liverpool,Arsenal,0,2,A,0,1,A,H Webb,17,11,8,7,12,7,10,2,2,2,0,0,FY1213,Arsenal,Arsenal,0,0,0,1,0,0,1,47.06,63.64,Kenny Dalglish,0,0,1,0,0,0,-2
+1176,2012-09-15,Sunderland,Liverpool,1,1,D,1,0,H,M Atkinson,6,20,4,9,18,10,2,7,1,2,0,0,FY1213,draw,Sunderland,1,0,1,0,0,0,1,66.67,45.0,Brendan Rodgers,0,0,0,0,0,1,0
+1185,2012-09-23,Liverpool,Man United,1,2,A,0,0,D,M Halsey,13,8,8,4,14,7,7,3,1,2,1,0,FY1213,Man United,draw,0,0,0,1,0,1,1,61.54,50.0,Brendan Rodgers,0,0,1,0,0,0,-1
+1193,2012-09-29,Norwich,Liverpool,2,5,A,0,2,A,M Jones,10,10,7,6,5,2,5,5,1,0,0,0,FY1213,Liverpool,Liverpool,3,1,0,0,1,0,0,70.0,60.0,Brendan Rodgers,0,1,0,0,0,0,3
+1205,2012-07-10,Liverpool,Stoke,0,0,D,0,0,D,L Mason,16,5,5,3,9,16,5,5,0,6,0,0,FY1213,draw,draw,1,0,1,0,0,1,1,31.25,60.0,Brendan Rodgers,0,0,0,0,1,0,0
+1210,2012-10-20,Liverpool,Reading,1,0,H,1,0,H,R East,23,8,13,5,13,6,6,5,1,1,0,0,FY1213,Liverpool,Liverpool,3,1,0,0,1,0,0,56.52,62.5,Brendan Rodgers,1,0,0,0,0,0,1
+1226,2012-10-28,Everton,Liverpool,2,2,D,2,2,D,A Marriner,17,12,8,5,16,18,9,5,4,3,0,0,FY1213,draw,draw,1,0,1,0,0,1,1,47.06,41.67,Brendan Rodgers,0,0,0,0,0,1,0
+1236,2012-04-11,Liverpool,Newcastle,1,1,D,0,1,A,A Taylor,20,10,12,3,10,13,14,3,0,1,0,1,FY1213,draw,Newcastle,1,0,1,0,0,0,1,60.0,30.0,Kenny Dalglish,0,0,0,0,1,0,0
+1246,2012-11-11,Chelsea,Liverpool,1,1,D,1,0,H,H Webb,12,9,3,5,12,13,4,7,1,3,0,0,FY1213,draw,Chelsea,1,0,1,0,0,0,1,25.0,55.56,Brendan Rodgers,0,0,0,0,0,1,0
+1250,2012-11-17,Liverpool,Wigan,3,0,H,0,0,D,K Friend,22,9,11,3,9,11,10,5,0,3,0,0,FY1213,Liverpool,draw,3,1,0,0,0,1,1,50.0,33.33,Brendan Rodgers,1,0,0,0,0,0,3
+1267,2012-11-25,Swansea,Liverpool,0,0,D,0,0,D,J Moss,17,21,8,14,6,10,7,6,1,0,0,0,FY1213,draw,draw,1,0,1,0,0,1,1,47.06,66.67,Brendan Rodgers,0,0,0,0,0,1,0
+1277,2012-11-28,Tottenham,Liverpool,2,1,H,2,0,H,P Dowd,14,14,7,9,4,14,1,12,1,2,0,0,FY1213,Tottenham,Tottenham,0,0,0,1,0,0,1,50.0,64.29,Brendan Rodgers,0,0,0,1,0,0,-1
+1281,2012-01-12,Liverpool,Southampton,1,0,H,1,0,H,M Oliver,24,8,11,4,10,8,10,4,2,0,0,0,FY1213,Liverpool,Liverpool,3,1,0,0,1,0,0,45.83,50.0,Kenny Dalglish,1,0,0,0,0,0,1
+1297,2012-09-12,West Ham,Liverpool,2,3,A,2,1,H,L Probert,9,16,6,8,12,10,2,5,1,2,0,0,FY1213,Liverpool,West Ham,3,1,0,0,0,0,1,66.67,50.0,Brendan Rodgers,0,1,0,0,0,0,1
+1300,2012-12-15,Liverpool,Aston Villa,1,3,A,0,2,A,N Swarbrick,26,9,17,6,4,11,7,2,1,2,0,0,FY1213,Aston Villa,Aston Villa,0,0,0,1,0,0,1,65.38,66.67,Brendan Rodgers,0,0,1,0,0,0,-2
+1309,2012-12-22,Liverpool,Fulham,4,0,H,2,0,H,M Clattenburg,22,7,12,6,13,6,8,2,1,2,0,0,FY1213,Liverpool,Liverpool,3,1,0,0,1,0,0,54.55,85.71,Brendan Rodgers,1,0,0,0,0,0,4
+1326,2012-12-26,Stoke,Liverpool,3,1,H,2,1,H,H Webb,7,12,6,6,11,5,6,8,3,1,0,0,FY1213,Stoke,Stoke,0,0,0,1,0,0,1,85.71,50.0,Brendan Rodgers,0,0,0,1,0,0,-2
+1337,2012-12-30,QPR,Liverpool,0,3,A,0,3,A,A Taylor,14,16,7,11,10,8,1,9,2,1,0,0,FY1213,Liverpool,Liverpool,3,1,0,0,1,0,0,50.0,68.75,Brendan Rodgers,0,1,0,0,0,0,3
+1346,2013-02-01,Liverpool,Sunderland,3,0,H,2,0,H,P Dowd,27,6,16,5,8,5,9,5,0,1,0,0,FY1213,Liverpool,Liverpool,3,1,0,0,1,0,0,59.26,83.33,Brendan Rodgers,1,0,0,0,0,0,3
+1357,2013-01-13,Man United,Liverpool,2,1,H,1,0,H,H Webb,15,12,10,5,14,16,3,1,1,4,0,0,FY1213,Man United,Man United,0,0,0,1,0,0,1,66.67,41.67,Brendan Rodgers,0,0,0,1,0,0,-1
+1359,2013-01-19,Liverpool,Norwich,5,0,H,2,0,H,M Oliver,17,5,10,3,10,8,10,4,1,1,0,0,FY1213,Liverpool,Liverpool,3,1,0,0,1,0,0,58.82,60.0,Brendan Rodgers,1,0,0,0,0,0,5
+1374,2013-01-30,Arsenal,Liverpool,2,2,D,0,1,A,K Friend,14,10,6,5,9,11,8,6,3,1,0,0,FY1213,draw,Liverpool,1,0,1,0,1,0,0,42.86,50.0,Brendan Rodgers,0,0,0,0,0,1,0
+1388,2013-03-02,Man City,Liverpool,2,2,D,1,1,D,A Taylor,9,21,5,12,14,7,9,10,2,4,0,0,FY1213,draw,draw,1,0,1,0,0,1,1,55.56,57.14,Brendan Rodgers,0,0,0,0,0,1,0
+1399,2013-11-02,Liverpool,West Brom,0,2,A,0,0,D,J Moss,23,4,14,3,9,9,13,5,1,4,0,0,FY1213,West Brom,draw,0,0,0,1,0,1,1,60.87,75.0,Brendan Rodgers,0,0,1,0,0,0,-2
+1400,2013-02-17,Liverpool,Swansea,5,0,H,1,0,H,H Webb,33,4,18,3,6,9,10,1,0,1,0,0,FY1213,Liverpool,Liverpool,3,1,0,0,1,0,0,54.55,75.0,Brendan Rodgers,1,0,0,0,0,0,5
+1417,2013-02-03,Wigan,Liverpool,0,4,A,0,3,A,M Atkinson,15,8,11,7,11,15,4,3,2,2,0,0,FY1213,Liverpool,Liverpool,3,1,0,0,1,0,0,73.33,87.5,Brendan Rodgers,0,1,0,0,0,0,4
+1424,2013-10-03,Liverpool,Tottenham,3,2,H,1,1,D,M Oliver,10,15,4,9,9,8,1,4,1,1,0,0,FY1213,Liverpool,draw,3,1,0,0,0,1,1,40.0,60.0,Brendan Rodgers,1,0,0,0,0,0,1
+1429,2013-03-16,Southampton,Liverpool,3,1,H,2,1,H,P Dowd,17,8,12,6,10,10,7,5,0,1,0,0,FY1213,Southampton,Southampton,0,0,0,1,0,0,1,70.59,75.0,Brendan Rodgers,0,0,0,1,0,0,-2
+1444,2013-03-31,Aston Villa,Liverpool,1,2,A,1,0,H,L Mason,10,16,7,12,9,8,7,8,1,1,0,0,FY1213,Liverpool,Aston Villa,3,1,0,0,0,0,1,70.0,75.0,Brendan Rodgers,0,1,0,0,0,0,1
+1451,2013-07-04,Liverpool,West Ham,0,0,D,0,0,D,A Taylor,19,10,12,4,8,4,12,2,0,1,0,0,FY1213,draw,draw,1,0,1,0,0,1,1,63.16,40.0,Brendan Rodgers,0,0,0,0,1,0,0
+1459,2013-04-13,Reading,Liverpool,0,0,D,0,0,D,M Clattenburg,7,26,5,15,9,8,4,9,2,1,0,0,FY1213,draw,draw,1,0,1,0,0,1,1,71.43,57.69,Brendan Rodgers,0,0,0,0,0,1,0
+1474,2013-04-21,Liverpool,Chelsea,2,2,D,0,1,A,K Friend,23,9,12,6,8,11,8,5,5,2,0,0,FY1213,draw,Chelsea,1,0,1,0,0,0,1,52.17,66.67,Brendan Rodgers,0,0,0,0,1,0,0
+1479,2013-04-27,Newcastle,Liverpool,0,6,A,0,2,A,A Marriner,5,11,1,10,14,7,5,7,3,2,1,0,FY1213,Liverpool,Liverpool,3,1,0,0,1,0,0,20.0,90.91,Brendan Rodgers,0,1,0,0,0,0,6
+1494,2013-05-05,Liverpool,Everton,0,0,D,0,0,D,M Oliver,16,11,8,4,10,10,3,5,1,2,0,0,FY1213,draw,draw,1,0,1,0,0,1,1,50.0,36.36,Brendan Rodgers,0,0,0,0,1,0,0
+1502,2013-12-05,Fulham,Liverpool,1,3,A,1,1,D,M Halsey,10,20,8,14,2,10,7,8,0,1,0,0,FY1213,Liverpool,draw,3,1,0,0,0,1,1,80.0,70.0,Brendan Rodgers,0,1,0,0,0,0,2
+1511,2013-05-19,Liverpool,QPR,1,0,H,1,0,H,M Atkinson,27,10,20,3,7,3,14,0,1,3,0,0,FY1213,Liverpool,Liverpool,3,1,0,0,1,0,0,74.07,30.0,Brendan Rodgers,1,0,0,0,0,0,1
+1521,2013-08-17,Liverpool,Stoke,1,0,H,1,0,H,M Atkinson,26,10,11,4,11,11,12,6,1,1,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,42.31,40.0,Brendan Rodgers,1,0,0,0,0,0,1
+1531,2013-08-24,Aston Villa,Liverpool,0,1,A,0,1,A,M Clattenburg,17,5,3,1,9,8,8,2,3,3,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,17.65,20.0,Brendan Rodgers,0,1,0,0,0,0,1
+1548,2013-01-09,Liverpool,Man United,1,0,H,1,0,H,A Marriner,10,10,5,4,15,15,2,7,2,4,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,50.0,40.0,Brendan Rodgers,1,0,0,0,0,0,1
+1559,2013-09-16,Swansea,Liverpool,2,2,D,1,2,A,M Oliver,17,12,8,5,7,10,3,7,2,3,0,0,FY1314,draw,Liverpool,1,0,1,0,1,0,0,47.06,41.67,Brendan Rodgers,0,0,0,0,0,1,0
+1561,2013-09-21,Liverpool,Southampton,0,1,A,0,0,D,N Swarbrick,10,12,5,7,6,9,6,6,0,1,0,0,FY1314,Southampton,draw,0,0,0,1,0,1,1,50.0,58.33,Brendan Rodgers,0,0,1,0,0,0,-1
+1578,2013-09-29,Sunderland,Liverpool,1,3,A,0,2,A,H Webb,23,15,5,6,8,10,10,8,2,1,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,21.74,40.0,Brendan Rodgers,0,1,0,0,0,0,2
+1583,2013-05-10,Liverpool,Crystal Palace,3,1,H,3,0,H,A Taylor,13,11,7,2,11,6,11,3,2,1,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,53.85,18.18,Brendan Rodgers,1,0,0,0,0,0,2
+1594,2013-10-19,Newcastle,Liverpool,2,2,D,1,1,D,A Marriner,14,23,4,7,8,10,3,13,2,3,1,0,FY1314,draw,draw,1,0,1,0,0,1,1,28.57,30.43,Brendan Rodgers,0,0,0,0,0,1,0
+1602,2013-10-26,Liverpool,West Brom,4,1,H,2,0,H,J Moss,18,15,7,3,14,11,3,9,0,2,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,38.89,20.0,Brendan Rodgers,1,0,0,0,0,0,3
+1610,2013-02-11,Arsenal,Liverpool,2,0,H,1,0,H,M Atkinson,12,12,7,4,11,7,3,5,2,1,0,0,FY1314,Arsenal,Arsenal,0,0,0,1,0,0,1,58.33,33.33,Brendan Rodgers,0,0,0,1,0,0,-2
+1623,2013-09-11,Liverpool,Fulham,4,0,H,3,0,H,M Jones,32,4,10,1,13,9,9,3,0,1,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,31.25,25.0,Brendan Rodgers,1,0,0,0,0,0,4
+1631,2013-11-23,Everton,Liverpool,3,3,D,1,2,A,P Dowd,18,11,12,5,16,15,6,7,4,3,0,0,FY1314,draw,Liverpool,1,0,1,0,1,0,0,66.67,45.45,Brendan Rodgers,0,0,0,0,0,1,0
+1647,2013-01-12,Hull,Liverpool,3,1,H,1,1,D,H Webb,12,9,4,4,10,16,2,6,2,0,0,0,FY1314,Hull,draw,0,0,0,1,0,1,1,33.33,44.44,Brendan Rodgers,0,0,0,1,0,0,-2
+1653,2013-04-12,Liverpool,Norwich,5,1,H,3,0,H,A Taylor,28,14,12,5,10,6,4,0,3,1,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,42.86,35.71,Brendan Rodgers,1,0,0,0,0,0,4
+1661,2013-07-12,Liverpool,West Ham,4,1,H,1,0,H,M Oliver,32,8,9,1,9,12,8,4,0,3,0,1,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,28.12,12.5,Brendan Rodgers,1,0,0,0,0,0,3
+1679,2013-12-15,Tottenham,Liverpool,0,5,A,0,2,A,J Moss,9,21,0,10,17,15,2,9,3,0,1,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,0.0,47.62,Brendan Rodgers,0,1,0,0,0,0,5
+1682,2013-12-21,Liverpool,Cardiff,3,1,H,3,0,H,L Probert,27,10,7,3,11,13,9,5,2,0,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,25.93,30.0,Brendan Rodgers,1,0,0,0,0,0,2
+1695,2013-12-26,Man City,Liverpool,2,1,H,2,1,H,L Mason,20,12,6,5,10,9,7,6,1,3,0,0,FY1314,Man City,Man City,0,0,0,1,0,0,1,30.0,41.67,Brendan Rodgers,0,0,0,1,0,0,-1
+1706,2013-12-29,Chelsea,Liverpool,2,1,H,2,1,H,H Webb,11,8,5,4,17,17,4,2,4,1,0,0,FY1314,Chelsea,Chelsea,0,0,0,1,0,0,1,45.45,50.0,Brendan Rodgers,0,0,0,1,0,0,-1
+1713,2014-01-01,Liverpool,Hull,2,0,H,1,0,H,C Pawson,17,10,6,0,15,15,3,4,1,2,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,35.29,0.0,Brendan Rodgers,1,0,0,0,0,0,2
+1728,2014-12-01,Stoke,Liverpool,3,5,A,2,2,D,A Taylor,13,13,4,9,10,8,11,2,1,1,0,0,FY1314,Liverpool,draw,3,1,0,0,0,1,1,30.77,69.23,Brendan Rodgers,0,1,0,0,0,0,2
+1732,2014-01-18,Liverpool,Aston Villa,2,2,D,1,2,A,J Moss,14,12,6,3,14,18,2,3,1,4,0,0,FY1314,draw,Aston Villa,1,0,1,0,0,0,1,42.86,25.0,Brendan Rodgers,0,0,0,0,1,0,0
+1741,2014-01-28,Liverpool,Everton,4,0,H,3,0,H,M Atkinson,20,18,9,4,11,13,5,8,0,3,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,45.0,22.22,Brendan Rodgers,1,0,0,0,0,0,4
+1758,2014-02-02,West Brom,Liverpool,1,1,D,0,1,A,K Friend,12,12,4,3,13,15,3,4,4,2,0,0,FY1314,draw,Liverpool,1,0,1,0,1,0,0,33.33,25.0,Brendan Rodgers,0,0,0,0,0,1,0
+1763,2014-08-02,Liverpool,Arsenal,5,1,H,4,0,H,M Oliver,22,11,12,6,14,14,6,6,1,2,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,54.55,54.55,Brendan Rodgers,1,0,0,0,0,0,4
+1775,2014-12-02,Fulham,Liverpool,2,3,A,1,1,D,P Dowd,10,21,3,7,7,9,7,5,4,3,0,0,FY1314,Liverpool,draw,3,1,0,0,0,1,1,30.0,33.33,Brendan Rodgers,0,1,0,0,0,0,1
+1785,2014-02-23,Liverpool,Swansea,4,3,H,3,2,H,M Jones,21,14,10,5,9,11,3,5,1,0,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,47.62,35.71,Brendan Rodgers,1,0,0,0,0,0,1
+1791,2014-01-03,Southampton,Liverpool,0,3,A,0,1,A,L Probert,13,12,2,5,10,6,3,6,1,2,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,15.38,41.67,Brendan Rodgers,0,1,0,0,0,0,3
+1809,2014-03-16,Man United,Liverpool,0,3,A,0,1,A,M Clattenburg,13,17,1,7,13,12,3,4,1,4,1,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,7.69,41.18,Brendan Rodgers,0,1,0,0,0,0,3
+1811,2014-03-22,Cardiff,Liverpool,3,6,A,2,2,D,N Swarbrick,9,19,3,9,14,11,4,6,2,3,0,0,FY1314,Liverpool,draw,3,1,0,0,0,1,1,33.33,47.37,Brendan Rodgers,0,1,0,0,0,0,3
+1824,2014-03-26,Liverpool,Sunderland,2,1,H,1,0,H,K Friend,21,12,7,4,5,15,3,4,0,2,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,33.33,33.33,Brendan Rodgers,1,0,0,0,0,0,1
+1834,2014-03-30,Liverpool,Tottenham,4,0,H,2,0,H,P Dowd,11,15,5,4,9,9,5,7,0,2,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,45.45,26.67,Brendan Rodgers,1,0,0,0,0,0,4
+1844,2014-06-04,West Ham,Liverpool,1,2,A,1,1,D,A Taylor,11,17,1,8,10,9,4,4,4,0,0,0,FY1314,Liverpool,draw,3,1,0,0,0,1,1,9.09,47.06,Brendan Rodgers,0,1,0,0,0,0,1
+1852,2014-04-13,Liverpool,Man City,3,2,H,2,0,H,M Clattenburg,10,13,4,5,7,9,7,7,1,3,1,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,40.0,38.46,Brendan Rodgers,1,0,0,0,0,0,1
+1865,2014-04-20,Norwich,Liverpool,2,3,A,0,2,A,A Marriner,13,14,5,6,16,10,8,3,3,2,0,0,FY1314,Liverpool,Liverpool,3,1,0,0,1,0,0,38.46,42.86,Brendan Rodgers,0,1,0,0,0,0,1
+1874,2014-04-27,Liverpool,Chelsea,0,2,A,0,1,A,M Atkinson,26,11,8,4,9,7,14,3,0,4,0,0,FY1314,Chelsea,Chelsea,0,0,0,1,0,0,1,30.77,36.36,Brendan Rodgers,0,0,1,0,0,0,-2
+1886,2014-05-05,Crystal Palace,Liverpool,3,3,D,0,1,A,M Clattenburg,10,26,6,9,7,12,7,7,2,3,0,0,FY1314,draw,Liverpool,1,0,1,0,1,0,0,60.0,34.62,Brendan Rodgers,0,0,0,0,0,1,0
+1893,2014-11-05,Liverpool,Newcastle,2,1,H,0,1,A,P Dowd,13,8,5,2,8,16,6,2,1,3,0,2,FY1314,Liverpool,Newcastle,3,1,0,0,0,0,1,38.46,25.0,Brendan Rodgers,1,0,0,0,0,0,1
+1907,2014-08-17,Liverpool,Southampton,2,1,H,1,0,H,M Clattenburg,12,12,5,6,8,11,2,6,1,2,0,0,FY1415,Liverpool,Liverpool,3,1,0,0,1,0,0,41.67,50.0,Brendan Rodgers,1,0,0,0,0,0,1
+1919,2014-08-25,Man City,Liverpool,3,1,H,1,0,H,M Oliver,9,11,4,3,13,7,6,7,1,1,0,0,FY1415,Man City,Man City,0,0,0,1,0,0,1,44.44,27.27,Brendan Rodgers,0,0,0,1,0,0,-2
+1929,2014-08-31,Tottenham,Liverpool,0,3,A,0,1,A,P Dowd,7,17,1,8,14,11,7,3,0,4,0,0,FY1415,Liverpool,Liverpool,3,1,0,0,1,0,0,14.29,47.06,Brendan Rodgers,0,1,0,0,0,0,3
+1933,2014-09-13,Liverpool,Aston Villa,0,1,A,0,1,A,L Mason,18,5,1,1,9,10,7,6,2,1,0,0,FY1415,Aston Villa,Aston Villa,0,0,0,1,0,0,1,5.56,20.0,Brendan Rodgers,0,0,1,0,0,0,-1
+1945,2014-09-20,West Ham,Liverpool,3,1,H,2,1,H,C Pawson,13,11,7,5,16,11,7,5,4,1,0,0,FY1415,West Ham,West Ham,0,0,0,1,0,0,1,53.85,45.45,Brendan Rodgers,0,0,0,1,0,0,-2
+1954,2014-09-27,Liverpool,Everton,1,1,D,0,0,D,M Atkinson,24,11,8,5,8,9,8,2,2,1,0,0,FY1415,draw,draw,1,0,1,0,0,1,1,33.33,45.45,Brendan Rodgers,0,0,0,0,1,0,0
+1963,2014-04-10,Liverpool,West Brom,2,1,H,1,0,H,M Oliver,19,8,7,4,12,15,5,5,2,2,0,0,FY1415,Liverpool,Liverpool,3,1,0,0,1,0,0,36.84,50.0,Brendan Rodgers,1,0,0,0,0,0,1
+1977,2014-10-19,QPR,Liverpool,2,3,A,0,0,D,P Dowd,15,15,6,5,10,15,7,2,2,3,0,0,FY1415,Liverpool,draw,3,1,0,0,0,1,1,40.0,33.33,Brendan Rodgers,0,1,0,0,0,0,1
+1980,2014-10-25,Liverpool,Hull,0,0,D,0,0,D,N Swarbrick,17,6,4,3,12,17,14,1,3,2,0,0,FY1415,draw,draw,1,0,1,0,0,1,1,23.53,50.0,Brendan Rodgers,0,0,0,0,1,0,0
+1995,2014-01-11,Newcastle,Liverpool,1,0,H,0,0,D,A Marriner,14,6,3,3,13,8,7,2,4,3,0,0,FY1415,Newcastle,draw,0,0,0,1,0,1,1,21.43,50.0,Brendan Rodgers,0,0,0,1,0,0,-1
+2001,2014-08-11,Liverpool,Chelsea,1,2,A,1,1,D,A Taylor,12,15,4,5,9,12,5,7,2,5,0,0,FY1415,Chelsea,draw,0,0,0,1,0,1,1,33.33,33.33,Brendan Rodgers,0,0,1,0,0,0,-1
+2017,2014-11-23,Crystal Palace,Liverpool,3,1,H,1,1,D,J Moss,15,12,5,1,21,10,4,3,1,2,0,0,FY1415,Crystal Palace,draw,0,0,0,1,0,1,1,33.33,8.33,Brendan Rodgers,0,0,0,1,0,0,-2
+2021,2014-11-29,Liverpool,Stoke,1,0,H,0,0,D,C Pawson,16,13,3,4,11,9,5,5,0,3,0,0,FY1415,Liverpool,draw,3,1,0,0,0,1,1,18.75,30.77,Brendan Rodgers,1,0,0,0,0,0,1
+2032,2014-02-12,Leicester,Liverpool,1,3,A,1,1,D,L Mason,20,11,4,3,11,10,7,4,1,2,1,0,FY1415,Liverpool,draw,3,1,0,0,0,1,1,20.0,27.27,Brendan Rodgers,0,1,0,0,0,0,2
+2041,2014-06-12,Liverpool,Sunderland,0,0,D,0,0,D,N Swarbrick,15,7,2,1,12,15,5,7,1,3,0,0,FY1415,draw,draw,1,0,1,0,0,1,1,13.33,14.29,Brendan Rodgers,0,0,0,0,1,0,0
+2057,2014-12-14,Man United,Liverpool,3,0,H,2,0,H,M Atkinson,11,19,6,9,13,14,2,7,4,3,0,0,FY1415,Man United,Man United,0,0,0,1,0,0,1,54.55,47.37,Brendan Rodgers,0,0,0,1,0,0,-3
+2067,2014-12-21,Liverpool,Arsenal,2,2,D,1,1,D,M Oliver,27,7,10,3,6,14,10,6,0,3,1,0,FY1415,draw,draw,1,0,1,0,0,1,1,37.04,42.86,Brendan Rodgers,0,0,0,0,1,0,0
+2071,2014-12-26,Burnley,Liverpool,0,1,A,0,0,D,A Taylor,16,10,0,3,7,5,8,2,0,1,0,0,FY1415,Liverpool,draw,3,1,0,0,0,1,1,0.0,30.0,Brendan Rodgers,0,1,0,0,0,0,1
+2089,2014-12-29,Liverpool,Swansea,4,1,H,1,0,H,A Marriner,21,11,11,4,8,5,6,3,1,0,0,0,FY1415,Liverpool,Liverpool,3,1,0,0,1,0,0,52.38,36.36,Brendan Rodgers,1,0,0,0,0,0,3
+2092,2015-01-01,Liverpool,Leicester,2,2,D,2,0,H,M Jones,18,16,6,3,13,10,4,5,2,2,0,0,FY1415,draw,Liverpool,1,0,1,0,1,0,0,33.33,18.75,Brendan Rodgers,0,0,0,0,1,0,0
+2105,2015-10-01,Sunderland,Liverpool,0,1,A,0,1,A,C Pawson,5,21,1,4,12,11,6,6,1,4,1,0,FY1415,Liverpool,Liverpool,3,1,0,0,1,0,0,20.0,19.05,Brendan Rodgers,0,1,0,0,0,0,1
+2110,2015-01-17,Aston Villa,Liverpool,0,2,A,0,1,A,M Clattenburg,15,12,4,5,13,11,9,5,1,1,0,0,FY1415,Liverpool,Liverpool,3,1,0,0,1,0,0,26.67,41.67,Brendan Rodgers,0,1,0,0,0,0,2
+2123,2015-01-31,Liverpool,West Ham,2,0,H,0,0,D,A Marriner,21,7,7,2,12,12,5,7,1,1,0,0,FY1415,Liverpool,draw,3,1,0,0,0,1,1,33.33,28.57,Brendan Rodgers,1,0,0,0,0,0,2
+2131,2015-07-02,Everton,Liverpool,0,0,D,0,0,D,A Taylor,6,17,1,6,11,7,3,6,4,1,0,0,FY1415,draw,draw,1,0,1,0,0,1,1,16.67,35.29,Brendan Rodgers,0,0,0,0,0,1,0
+2142,2015-10-02,Liverpool,Tottenham,3,2,H,1,1,D,P Dowd,16,14,7,5,13,17,5,7,3,6,0,0,FY1415,Liverpool,draw,3,1,0,0,0,1,1,43.75,35.71,Brendan Rodgers,1,0,0,0,0,0,1
+2158,2015-02-22,Southampton,Liverpool,0,2,A,0,1,A,K Friend,13,6,5,4,11,14,6,1,2,3,0,0,FY1415,Liverpool,Liverpool,3,1,0,0,1,0,0,38.46,66.67,Brendan Rodgers,0,1,0,0,0,0,2
+2167,2015-01-03,Liverpool,Man City,2,1,H,1,1,D,M Clattenburg,11,8,5,1,8,16,3,0,1,3,0,0,FY1415,Liverpool,draw,3,1,0,0,0,1,1,45.45,12.5,Brendan Rodgers,1,0,0,0,0,0,1
+2171,2015-04-03,Liverpool,Burnley,2,0,H,1,0,H,L Mason,20,9,8,1,8,14,6,5,0,1,0,0,FY1415,Liverpool,Liverpool,3,1,0,0,1,0,0,40.0,11.11,Brendan Rodgers,1,0,0,0,0,0,2
+2188,2015-03-16,Swansea,Liverpool,0,1,A,0,0,D,R East,10,16,3,5,13,16,4,5,0,3,0,0,FY1415,Liverpool,draw,3,1,0,0,0,1,1,30.0,31.25,Brendan Rodgers,0,1,0,0,0,0,1
+2197,2015-03-22,Liverpool,Man United,1,2,A,0,1,A,M Atkinson,7,6,1,4,14,17,2,3,2,2,1,0,FY1415,Man United,Man United,0,0,0,1,0,0,1,14.29,66.67,Brendan Rodgers,0,0,1,0,0,0,-1
+2199,2015-04-04,Arsenal,Liverpool,4,1,H,3,0,H,A Taylor,16,13,10,2,7,9,6,5,1,0,0,1,FY1415,Arsenal,Arsenal,0,0,0,1,0,0,1,62.5,15.38,Brendan Rodgers,0,0,0,1,0,0,-3
+2219,2015-04-13,Liverpool,Newcastle,2,0,H,1,0,H,L Mason,14,10,6,3,8,17,6,6,2,0,0,1,FY1415,Liverpool,Liverpool,3,1,0,0,1,0,0,42.86,30.0,Brendan Rodgers,1,0,0,0,0,0,2
+2234,2015-04-25,West Brom,Liverpool,0,0,D,0,0,D,R East,10,22,4,5,12,11,2,4,1,0,0,0,FY1415,draw,draw,1,0,1,0,0,1,1,40.0,22.73,Brendan Rodgers,0,0,0,0,0,1,0
+2237,2015-04-28,Hull,Liverpool,1,0,H,1,0,H,L Probert,7,12,4,9,10,10,7,7,2,0,0,0,FY1415,Hull,Hull,0,0,0,1,0,0,1,57.14,75.0,Brendan Rodgers,0,0,0,1,0,0,-1
+2241,2015-02-05,Liverpool,QPR,2,1,H,1,0,H,M Atkinson,25,10,8,2,9,18,9,6,2,3,0,1,FY1415,Liverpool,Liverpool,3,1,0,0,1,0,0,32.0,20.0,Brendan Rodgers,1,0,0,0,0,0,1
+2256,2015-10-05,Chelsea,Liverpool,1,1,D,1,1,D,A Marriner,8,15,3,4,13,11,6,4,4,3,0,0,FY1415,draw,draw,1,0,1,0,0,1,1,37.5,26.67,Brendan Rodgers,0,0,0,0,0,1,0
+2260,2015-05-16,Liverpool,Crystal Palace,1,3,A,1,1,D,J Moss,18,15,3,6,10,17,4,5,2,3,0,0,FY1415,Crystal Palace,draw,0,0,0,1,0,1,1,16.67,40.0,Brendan Rodgers,0,0,1,0,0,0,-2
+2279,2015-05-24,Stoke,Liverpool,6,1,H,5,0,H,A Taylor,15,13,9,4,13,4,3,9,4,2,0,0,FY1415,Stoke,Stoke,0,0,0,1,0,0,1,60.0,30.77,Brendan Rodgers,0,0,0,1,0,0,-5
+2288,2015-09-08,Stoke,Liverpool,0,1,A,0,0,D,A Taylor,7,8,1,3,9,16,3,5,2,4,0,0,FY1516,Liverpool,draw,3,1,0,0,0,1,1,14.29,37.5,Brendan Rodgers,0,1,0,0,0,0,1
+2299,2015-08-17,Liverpool,Bournemouth,1,0,H,1,0,H,C Pawson,18,13,2,2,11,18,6,8,1,4,0,0,FY1516,Liverpool,Liverpool,3,1,0,0,1,0,0,11.11,15.38,Brendan Rodgers,1,0,0,0,0,0,1
+2309,2015-08-24,Arsenal,Liverpool,0,0,D,0,0,D,M Oliver,19,15,5,8,2,13,7,8,1,4,0,0,FY1516,draw,draw,1,0,1,0,0,1,1,26.32,53.33,Brendan Rodgers,0,0,0,0,0,1,0
+2313,2015-08-29,Liverpool,West Ham,0,3,A,0,2,A,K Friend,13,12,1,5,17,11,5,7,3,1,1,1,FY1516,West Ham,West Ham,0,0,0,1,0,0,1,7.69,41.67,Brendan Rodgers,0,0,1,0,0,0,-3
+2323,2015-12-09,Man United,Liverpool,3,1,H,0,0,D,M Oliver,9,8,3,4,6,11,4,4,1,2,0,0,FY1516,Man United,draw,0,0,0,1,0,1,1,33.33,50.0,Jürgen Klopp,0,0,0,1,0,0,-2
+2337,2015-09-20,Liverpool,Norwich,1,1,D,0,0,D,A Taylor,23,7,7,2,4,13,6,2,1,2,0,0,FY1516,draw,draw,1,0,1,0,0,1,1,30.43,28.57,Brendan Rodgers,0,0,0,0,1,0,0
+2341,2015-09-26,Liverpool,Aston Villa,3,2,H,1,0,H,J Moss,21,10,12,4,8,13,11,1,0,0,0,0,FY1516,Liverpool,Liverpool,3,1,0,0,1,0,0,57.14,40.0,Brendan Rodgers,1,0,0,0,0,0,1
+2358,2015-04-10,Everton,Liverpool,1,1,D,1,1,D,M Atkinson,14,13,4,4,10,19,5,11,3,3,0,0,FY1516,draw,draw,1,0,1,0,0,1,1,28.57,30.77,Brendan Rodgers,0,0,0,0,0,1,0
+2365,2015-10-17,Tottenham,Liverpool,0,0,D,0,0,D,C Pawson,13,12,4,3,15,11,8,6,1,2,0,0,FY1516,draw,draw,1,0,1,0,0,1,1,30.77,25.0,Jürgen Klopp,0,0,0,0,0,1,0
+2377,2015-10-25,Liverpool,Southampton,1,1,D,0,0,D,A Marriner,15,8,2,3,8,11,10,7,1,0,0,1,FY1516,draw,draw,1,0,1,0,0,1,1,13.33,37.5,Jürgen Klopp,0,0,0,0,1,0,0
+2380,2015-10-31,Chelsea,Liverpool,1,3,A,1,1,D,M Clattenburg,8,16,2,7,9,21,1,7,1,4,0,0,FY1516,Liverpool,draw,3,1,0,0,0,1,1,25.0,43.75,Jürgen Klopp,0,1,0,0,0,0,2
+2399,2015-08-11,Liverpool,Crystal Palace,1,2,A,1,1,D,N Swarbrick,22,9,4,4,7,6,14,6,1,2,0,0,FY1516,Crystal Palace,draw,0,0,0,1,0,1,1,18.18,44.44,Brendan Rodgers,0,0,1,0,0,0,-1
+2402,2015-11-21,Man City,Liverpool,1,4,A,1,3,A,J Moss,11,14,3,9,5,13,11,5,0,3,0,0,FY1516,Liverpool,Liverpool,3,1,0,0,1,0,0,27.27,64.29,Jürgen Klopp,0,1,0,0,0,0,3
+2416,2015-11-29,Liverpool,Swansea,1,0,H,0,0,D,A Taylor,10,8,2,0,12,6,8,7,3,1,0,0,FY1516,Liverpool,draw,3,1,0,0,0,1,1,20.0,0.0,Jürgen Klopp,1,0,0,0,0,0,1
+2428,2015-06-12,Newcastle,Liverpool,2,0,H,0,0,D,A Marriner,6,10,1,1,6,10,2,7,3,1,0,0,FY1516,Newcastle,draw,0,0,0,1,0,1,1,16.67,10.0,Brendan Rodgers,0,0,0,1,0,0,-2
+2437,2015-12-13,Liverpool,West Brom,2,2,D,1,1,D,C Pawson,28,4,8,2,7,10,4,4,0,0,0,0,FY1516,draw,draw,1,0,1,0,0,1,1,28.57,50.0,Jürgen Klopp,0,0,0,0,1,0,0
+2448,2015-12-20,Watford,Liverpool,3,0,H,2,0,H,M Clattenburg,6,12,5,4,6,9,7,9,1,0,0,0,FY1516,Watford,Watford,0,0,0,1,0,0,1,83.33,33.33,Jürgen Klopp,0,0,0,1,0,0,-3
+2453,2015-12-26,Liverpool,Leicester,1,0,H,0,0,D,M Atkinson,25,7,4,3,11,8,7,6,2,1,0,0,FY1516,Liverpool,draw,3,1,0,0,0,1,1,16.0,42.86,Jürgen Klopp,1,0,0,0,0,0,1
+2469,2015-12-30,Sunderland,Liverpool,0,1,A,0,0,D,K Friend,8,17,3,6,8,16,6,4,1,3,0,0,FY1516,Liverpool,draw,3,1,0,0,0,1,1,37.5,35.29,Jürgen Klopp,0,1,0,0,0,0,1
+2477,2016-02-01,West Ham,Liverpool,2,0,H,1,0,H,R Madley,18,23,10,2,11,8,3,9,1,1,0,0,FY1516,West Ham,West Ham,0,0,0,1,0,0,1,55.56,8.7,Jürgen Klopp,0,0,0,1,0,0,-2
+2484,2016-01-13,Liverpool,Arsenal,3,3,D,2,2,D,M Jones,22,14,6,5,9,7,9,3,2,0,0,0,FY1516,draw,draw,1,0,1,0,0,1,1,27.27,35.71,Jürgen Klopp,0,0,0,0,1,0,0
+2497,2016-01-17,Liverpool,Man United,0,1,A,0,0,D,M Clattenburg,19,7,4,1,6,18,5,4,0,2,0,0,FY1516,Man United,draw,0,0,0,1,0,1,1,21.05,14.29,Jürgen Klopp,0,0,1,0,0,0,-1
+2503,2016-01-23,Norwich,Liverpool,4,5,A,2,1,H,L Mason,6,13,5,7,10,14,3,3,0,1,0,0,FY1516,Liverpool,Norwich,3,1,0,0,0,0,1,83.33,53.85,Jürgen Klopp,0,1,0,0,0,0,1
+2512,2016-02-02,Leicester,Liverpool,2,0,H,0,0,D,A Marriner,13,14,6,2,6,7,3,12,0,1,0,0,FY1516,Leicester,draw,0,0,0,1,0,1,1,46.15,14.29,Jürgen Klopp,0,0,0,1,0,0,-2
+2521,2016-06-02,Liverpool,Sunderland,2,2,D,0,0,D,R Madley,16,7,5,2,4,12,7,2,1,1,0,0,FY1516,draw,draw,1,0,1,0,0,1,1,31.25,28.57,Jürgen Klopp,0,0,0,0,1,0,0
+2538,2016-02-14,Aston Villa,Liverpool,0,6,A,0,2,A,N Swarbrick,6,11,1,9,10,9,0,6,3,1,0,0,FY1516,Liverpool,Liverpool,3,1,0,0,1,0,0,16.67,81.82,Jürgen Klopp,0,1,0,0,0,0,6
+2554,2016-02-03,Liverpool,Man City,3,0,H,2,0,H,M Atkinson,11,4,7,2,14,14,3,2,0,1,0,0,FY1516,Liverpool,Liverpool,3,1,0,0,1,0,0,63.64,50.0,Jürgen Klopp,1,0,0,0,0,0,3
+2566,2016-06-03,Crystal Palace,Liverpool,1,2,A,0,0,D,A Marriner,14,19,4,5,12,16,6,6,1,2,0,1,FY1516,Liverpool,draw,3,1,0,0,0,1,1,28.57,26.32,Jürgen Klopp,0,1,0,0,0,0,1
+2581,2016-03-20,Southampton,Liverpool,3,2,H,0,2,A,R East,16,18,5,9,10,13,3,5,1,3,0,0,FY1516,Southampton,Liverpool,0,0,0,1,1,0,0,31.25,50.0,Jürgen Klopp,0,0,0,1,0,0,-1
+2586,2016-02-04,Liverpool,Tottenham,1,1,D,0,0,D,J Moss,15,18,7,5,11,11,12,9,2,0,0,0,FY1516,draw,draw,1,0,1,0,0,1,1,46.67,27.78,Jürgen Klopp,0,0,0,0,1,0,0
+2600,2016-10-04,Liverpool,Stoke,4,1,H,2,1,H,M Clattenburg,14,10,6,3,14,14,6,3,0,2,0,0,FY1516,Liverpool,Liverpool,3,1,0,0,1,0,0,42.86,30.0,Jürgen Klopp,1,0,0,0,0,0,3
+2611,2016-04-17,Bournemouth,Liverpool,1,2,A,0,2,A,M Jones,18,19,5,6,9,9,5,4,0,0,0,0,FY1516,Liverpool,Liverpool,3,1,0,0,1,0,0,27.78,31.58,Jürgen Klopp,0,1,0,0,0,0,1
+2615,2016-04-20,Liverpool,Everton,4,0,H,2,0,H,R Madley,37,3,13,0,8,11,9,1,1,1,0,1,FY1516,Liverpool,Liverpool,3,1,0,0,1,0,0,35.14,0.0,Jürgen Klopp,1,0,0,0,0,0,4
+2621,2016-04-23,Liverpool,Newcastle,2,2,D,2,0,H,A Marriner,13,6,4,3,8,17,5,4,1,1,0,0,FY1516,draw,Liverpool,1,0,1,0,1,0,0,30.77,50.0,Jürgen Klopp,0,0,0,0,1,0,0
+2634,2016-01-05,Swansea,Liverpool,3,1,H,2,0,H,R East,18,11,9,3,12,13,4,7,2,2,0,1,FY1516,Swansea,Swansea,0,0,0,1,0,0,1,50.0,27.27,Jürgen Klopp,0,0,0,1,0,0,-2
+2643,2016-08-05,Liverpool,Watford,2,0,H,1,0,H,L Mason,19,14,5,3,10,15,8,8,1,2,0,0,FY1516,Liverpool,Liverpool,3,1,0,0,1,0,0,26.32,21.43,Jürgen Klopp,1,0,0,0,0,0,2
+2647,2016-11-05,Liverpool,Chelsea,1,1,D,0,1,A,M Oliver,28,13,9,7,11,12,7,3,3,1,0,0,FY1516,draw,Chelsea,1,0,1,0,0,0,1,32.14,53.85,Jürgen Klopp,0,0,0,0,1,0,0
+2658,2016-05-15,West Brom,Liverpool,1,1,D,1,1,D,R Madley,13,7,1,3,11,14,7,5,3,1,0,0,FY1516,draw,draw,1,0,1,0,0,1,1,7.69,42.86,Jürgen Klopp,0,0,0,0,0,1,0
+2667,2016-08-14,Arsenal,Liverpool,3,4,A,1,1,D,M Oliver,9,16,5,7,13,17,5,4,3,3,0,0,FY1617,Liverpool,draw,3,1,0,0,0,1,1,55.56,43.75,Jürgen Klopp,0,1,0,0,0,0,1
+2671,2016-08-20,Burnley,Liverpool,2,0,H,2,0,H,L Mason,3,26,2,5,14,5,1,12,0,1,0,0,FY1617,Burnley,Burnley,0,0,0,1,0,0,1,66.67,19.23,Jürgen Klopp,0,0,0,1,0,0,-2
+2686,2016-08-27,Tottenham,Liverpool,1,1,D,0,1,A,R Madley,11,13,4,3,11,17,5,5,3,5,0,0,FY1617,draw,Liverpool,1,0,1,0,1,0,0,36.36,23.08,Jürgen Klopp,0,0,0,0,0,1,0
+2693,2016-10-09,Liverpool,Leicester,4,1,H,2,1,H,C Pawson,17,12,11,3,4,8,1,7,1,2,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,64.71,25.0,Jürgen Klopp,1,0,0,0,0,0,3
+2700,2016-09-16,Chelsea,Liverpool,1,2,A,0,2,A,M Atkinson,12,13,4,5,6,13,6,4,1,1,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,33.33,38.46,Jürgen Klopp,0,1,0,0,0,0,1
+2712,2016-09-24,Liverpool,Hull,5,1,H,3,0,H,A Marriner,32,2,12,1,8,8,13,2,1,2,0,1,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,37.5,50.0,Jürgen Klopp,1,0,0,0,0,0,4
+2723,2016-01-10,Swansea,Liverpool,1,2,A,1,0,H,M Oliver,8,18,3,6,11,9,3,10,2,2,0,0,FY1617,Liverpool,Swansea,3,1,0,0,0,0,1,37.5,33.33,Jürgen Klopp,0,1,0,0,0,0,1
+2739,2016-10-17,Liverpool,Man United,0,0,D,0,0,D,A Taylor,9,7,3,1,14,20,3,1,0,4,0,0,FY1617,draw,draw,1,0,1,0,0,1,1,33.33,14.29,Jürgen Klopp,0,0,0,0,1,0,0
+2745,2016-10-22,Liverpool,West Brom,2,1,H,2,0,H,N Swarbrick,21,6,7,1,9,13,3,2,1,3,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,33.33,16.67,Jürgen Klopp,1,0,0,0,0,0,1
+2750,2016-10-29,Crystal Palace,Liverpool,2,4,A,2,3,A,A Marriner,7,17,6,10,15,5,3,3,1,2,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,85.71,58.82,Jürgen Klopp,0,1,0,0,0,0,2
+2768,2016-06-11,Liverpool,Watford,6,1,H,3,0,H,M Oliver,28,11,17,8,14,10,6,3,1,2,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,60.71,72.73,Jürgen Klopp,1,0,0,0,0,0,5
+2773,2016-11-19,Southampton,Liverpool,0,0,D,0,0,D,M Clattenburg,3,15,0,2,8,11,1,8,1,1,0,0,FY1617,draw,draw,1,0,1,0,0,1,1,0.0,13.33,Jürgen Klopp,0,0,0,0,0,1,0
+2784,2016-11-26,Liverpool,Sunderland,2,0,H,0,0,D,A Taylor,27,6,7,1,5,9,9,4,1,3,0,0,FY1617,Liverpool,draw,3,1,0,0,0,1,1,25.93,16.67,Jürgen Klopp,1,0,0,0,0,0,2
+2797,2016-04-12,Bournemouth,Liverpool,4,3,H,0,2,A,R Madley,12,10,8,3,9,17,4,9,2,2,0,0,FY1617,Bournemouth,Liverpool,0,0,0,1,1,0,0,66.67,30.0,Jürgen Klopp,0,0,0,1,0,0,-1
+2807,2016-11-12,Liverpool,West Ham,2,2,D,1,2,A,M Clattenburg,18,7,3,3,7,8,11,4,2,0,0,0,FY1617,draw,West Ham,1,0,1,0,0,0,1,16.67,42.86,Jürgen Klopp,0,0,0,0,1,0,0
+2814,2016-12-14,Middlesbrough,Liverpool,0,3,A,0,1,A,J Moss,8,15,3,4,11,14,5,2,1,0,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,37.5,26.67,Jürgen Klopp,0,1,0,0,0,0,3
+2829,2016-12-19,Everton,Liverpool,0,1,A,0,0,D,M Dean,6,11,1,4,13,9,1,6,3,1,0,0,FY1617,Liverpool,draw,3,1,0,0,0,1,1,16.67,36.36,Jürgen Klopp,0,1,0,0,0,0,1
+2838,2016-12-27,Liverpool,Stoke,4,1,H,2,1,H,M Oliver,20,6,6,2,9,6,8,2,0,1,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,30.0,33.33,Jürgen Klopp,1,0,0,0,0,0,3
+2844,2016-12-31,Liverpool,Man City,1,0,H,1,0,H,C Pawson,5,9,1,2,12,12,4,6,2,1,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,20.0,22.22,Jürgen Klopp,1,0,0,0,0,0,1
+2853,2017-02-01,Sunderland,Liverpool,2,2,D,1,1,D,A Taylor,10,21,5,15,10,10,2,5,2,3,0,0,FY1617,draw,draw,1,0,1,0,0,1,1,50.0,71.43,Jürgen Klopp,0,0,0,0,0,1,0
+2869,2017-01-15,Man United,Liverpool,1,1,D,0,1,A,M Oliver,9,13,3,4,17,13,5,7,1,3,0,0,FY1617,draw,Liverpool,1,0,1,0,1,0,0,33.33,30.77,Jürgen Klopp,0,0,0,0,0,1,0
+2872,2017-01-21,Liverpool,Swansea,2,3,A,0,0,D,K Friend,16,6,5,3,7,7,6,3,1,1,0,0,FY1617,Swansea,draw,0,0,0,1,0,1,1,31.25,50.0,Jürgen Klopp,0,0,1,0,0,0,-1
+2883,2017-01-31,Liverpool,Chelsea,1,1,D,0,1,A,M Clattenburg,7,8,3,2,13,8,3,3,2,1,0,0,FY1617,draw,Chelsea,1,0,1,0,0,0,1,42.86,25.0,Jürgen Klopp,0,0,0,0,1,0,0
+2893,2017-04-02,Hull,Liverpool,2,0,H,1,0,H,L Mason,7,22,4,5,9,12,1,15,2,1,0,0,FY1617,Hull,Hull,0,0,0,1,0,0,1,57.14,22.73,Jürgen Klopp,0,0,0,1,0,0,-2
+2901,2017-11-02,Liverpool,Tottenham,2,0,H,2,0,H,A Taylor,17,7,9,2,14,14,10,3,3,4,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,52.94,28.57,Jürgen Klopp,1,0,0,0,0,0,2
+2917,2017-02-27,Leicester,Liverpool,3,1,H,2,0,H,M Oliver,13,17,7,7,8,5,5,12,0,0,0,0,FY1617,Leicester,Leicester,0,0,0,1,0,0,1,53.85,41.18,Jürgen Klopp,0,0,0,1,0,0,-2
+2919,2017-04-03,Liverpool,Arsenal,3,1,H,2,0,H,R Madley,18,7,7,3,8,15,9,3,1,2,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,38.89,42.86,Jürgen Klopp,1,0,0,0,0,0,2
+2932,2017-12-03,Liverpool,Burnley,2,1,H,1,1,D,C Pawson,10,11,3,1,12,16,11,1,2,2,0,0,FY1617,Liverpool,draw,3,1,0,0,0,1,1,30.0,9.09,Jürgen Klopp,1,0,0,0,0,0,1
+2940,2017-03-19,Man City,Liverpool,1,1,D,0,0,D,M Oliver,13,13,3,4,14,7,9,8,3,3,0,0,FY1617,draw,draw,1,0,1,0,0,1,1,23.08,30.77,Jürgen Klopp,0,0,0,0,0,1,0
+2947,2017-01-04,Liverpool,Everton,3,1,H,2,1,H,A Taylor,10,9,6,4,17,10,2,3,1,3,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,60.0,44.44,Jürgen Klopp,1,0,0,0,0,0,2
+2960,2017-05-04,Liverpool,Bournemouth,2,2,D,1,1,D,L Mason,20,7,8,2,11,8,7,2,1,1,0,0,FY1617,draw,draw,1,0,1,0,0,1,1,40.0,28.57,Jürgen Klopp,0,0,0,0,1,0,0
+2966,2017-08-04,Stoke,Liverpool,1,2,A,1,0,H,M Dean,9,14,4,4,7,11,5,8,0,2,0,0,FY1617,Liverpool,Stoke,3,1,0,0,0,0,1,44.44,28.57,Jürgen Klopp,0,1,0,0,0,0,1
+2981,2017-04-16,West Brom,Liverpool,0,1,A,0,1,A,J Moss,7,15,2,2,15,9,4,4,3,1,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,28.57,13.33,Jürgen Klopp,0,1,0,0,0,0,1
+2988,2017-04-23,Liverpool,Crystal Palace,1,2,A,1,1,D,A Marriner,14,7,1,3,8,10,4,3,1,2,0,0,FY1617,Crystal Palace,draw,0,0,0,1,0,1,1,7.14,42.86,Jürgen Klopp,0,0,1,0,0,0,-1
+3003,2017-01-05,Watford,Liverpool,0,1,A,0,1,A,C Pawson,9,12,2,8,11,9,3,5,3,1,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,22.22,66.67,Jürgen Klopp,0,1,0,0,0,0,1
+3012,2017-07-05,Liverpool,Southampton,0,0,D,0,0,D,R Madley,17,4,8,0,9,4,3,6,1,3,0,0,FY1617,draw,draw,1,0,1,0,0,1,1,47.06,0.0,Jürgen Klopp,0,0,0,0,1,0,0
+3024,2017-05-14,West Ham,Liverpool,0,4,A,0,1,A,N Swarbrick,10,26,3,11,5,10,4,6,2,0,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,30.0,42.31,Jürgen Klopp,0,1,0,0,0,0,4
+3035,2017-05-21,Liverpool,Middlesbrough,3,0,H,1,0,H,M Atkinson,25,9,10,3,13,8,3,3,0,1,0,0,FY1617,Liverpool,Liverpool,3,1,0,0,1,0,0,40.0,33.33,Jürgen Klopp,1,0,0,0,0,0,3
+3046,2017-12-08,Watford,Liverpool,3,3,D,2,1,H,A Taylor,9,14,4,5,14,8,3,3,0,3,0,0,FY1718,draw,Watford,1,0,1,0,0,0,1,44.44,35.71,Jürgen Klopp,0,0,0,0,0,1,0
+3053,2017-08-19,Liverpool,Crystal Palace,1,0,H,0,0,D,K Friend,23,4,13,1,12,13,4,2,1,3,0,0,FY1718,Liverpool,draw,3,1,0,0,0,1,1,56.52,25.0,Jürgen Klopp,1,0,0,0,0,0,1
+3067,2017-08-27,Liverpool,Arsenal,4,0,H,2,0,H,C Pawson,18,8,10,0,6,9,4,3,2,4,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,55.56,0.0,Jürgen Klopp,1,0,0,0,0,0,4
+3074,2017-09-09,Man City,Liverpool,5,0,H,2,0,H,J Moss,13,10,7,3,10,9,8,3,2,2,0,1,FY1718,Man City,Man City,0,0,0,1,0,0,1,53.85,30.0,Jürgen Klopp,0,0,0,1,0,0,-5
+3083,2017-09-16,Liverpool,Burnley,1,1,D,1,1,D,R East,35,5,9,4,7,9,12,2,1,2,0,0,FY1718,draw,draw,1,0,1,0,0,1,1,25.71,80.0,Jürgen Klopp,0,0,0,0,1,0,0
+3092,2017-09-23,Leicester,Liverpool,2,3,A,1,2,A,A Taylor,12,23,7,6,13,14,3,6,3,3,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,58.33,26.09,Jürgen Klopp,0,1,0,0,0,0,1
+3109,2017-01-10,Newcastle,Liverpool,1,1,D,1,1,D,C Pawson,8,17,5,2,11,6,1,5,1,1,0,0,FY1718,draw,draw,1,0,1,0,0,1,1,62.5,11.76,Jürgen Klopp,0,0,0,0,0,1,0
+3112,2017-10-14,Liverpool,Man United,0,0,D,0,0,D,M Atkinson,19,6,5,1,7,13,7,3,0,2,0,0,FY1718,draw,draw,1,0,1,0,0,1,1,26.32,16.67,Jürgen Klopp,0,0,0,0,1,0,0
+3129,2017-10-22,Tottenham,Liverpool,4,1,H,3,1,H,A Marriner,14,12,6,7,2,8,3,5,0,1,0,0,FY1718,Tottenham,Tottenham,0,0,0,1,0,0,1,42.86,58.33,Jürgen Klopp,0,0,0,1,0,0,-3
+3133,2017-10-28,Liverpool,Huddersfield,3,0,H,0,0,D,K Friend,16,1,8,0,10,8,9,2,0,1,0,0,FY1718,Liverpool,draw,3,1,0,0,0,1,1,50.0,0.0,Jürgen Klopp,1,0,0,0,0,0,3
+3145,2017-04-11,West Ham,Liverpool,1,4,A,0,2,A,N Swarbrick,6,15,1,7,9,13,2,3,3,0,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,16.67,46.67,Jürgen Klopp,0,1,0,0,0,0,3
+3155,2017-11-18,Liverpool,Southampton,3,0,H,2,0,H,M Jones,21,5,8,0,15,9,10,2,1,1,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,38.1,0.0,Jürgen Klopp,1,0,0,0,0,0,3
+3162,2017-11-25,Liverpool,Chelsea,1,1,D,0,0,D,M Oliver,16,11,4,3,10,7,7,8,0,0,0,0,FY1718,draw,draw,1,0,1,0,0,1,1,25.0,27.27,Jürgen Klopp,0,0,0,0,1,0,0
+3179,2017-11-29,Stoke,Liverpool,0,3,A,0,1,A,M Atkinson,10,14,1,7,8,10,5,9,1,5,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,10.0,50.0,Jürgen Klopp,0,1,0,0,0,0,3
+3181,2017-02-12,Brighton,Liverpool,1,5,A,0,2,A,G Scott,6,12,2,6,8,7,2,2,1,0,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,33.33,50.0,Jürgen Klopp,0,1,0,0,0,0,4
+3197,2017-10-12,Liverpool,Everton,1,1,D,1,0,H,C Pawson,23,3,3,2,8,11,12,1,1,3,0,0,FY1718,draw,Liverpool,1,0,1,0,1,0,0,13.04,66.67,Jürgen Klopp,0,0,0,0,1,0,0
+3203,2017-12-13,Liverpool,West Brom,0,0,D,0,0,D,P Tierney,14,6,5,1,16,6,5,7,1,0,0,0,FY1718,draw,draw,1,0,1,0,0,1,1,35.71,16.67,Jürgen Klopp,0,0,0,0,1,0,0
+3217,2017-12-17,Bournemouth,Liverpool,0,4,A,0,3,A,A Marriner,6,21,2,7,5,10,2,3,1,1,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,33.33,33.33,Jürgen Klopp,0,1,0,0,0,0,4
+3220,2017-12-22,Arsenal,Liverpool,3,3,D,0,1,A,M Atkinson,11,14,4,9,9,11,7,8,1,0,0,0,FY1718,draw,Liverpool,1,0,1,0,1,0,0,36.36,64.29,Jürgen Klopp,0,0,0,0,0,1,0
+3233,2017-12-26,Liverpool,Swansea,5,0,H,1,0,H,K Friend,22,7,9,4,5,8,4,2,0,1,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,40.91,57.14,Jürgen Klopp,1,0,0,0,0,0,5
+3243,2017-12-30,Liverpool,Leicester,2,1,H,0,1,A,N Swarbrick,17,7,6,1,7,3,7,1,3,2,0,0,FY1718,Liverpool,Leicester,3,1,0,0,0,0,1,35.29,14.29,Jürgen Klopp,1,0,0,0,0,0,1
+3250,2018-01-01,Burnley,Liverpool,1,2,A,0,0,D,R East,13,19,4,5,4,12,3,9,0,0,0,0,FY1718,Liverpool,draw,3,1,0,0,0,1,1,30.77,26.32,Jürgen Klopp,0,1,0,0,0,0,1
+3268,2018-01-14,Liverpool,Man City,4,3,H,1,1,D,A Marriner,16,11,7,4,10,7,5,6,2,3,0,0,FY1718,Liverpool,draw,3,1,0,0,0,1,1,43.75,36.36,Jürgen Klopp,1,0,0,0,0,0,1
+3279,2018-01-22,Swansea,Liverpool,1,0,H,1,0,H,N Swarbrick,3,21,2,4,5,9,3,9,0,2,0,0,FY1718,Swansea,Swansea,0,0,0,1,0,0,1,66.67,19.05,Jürgen Klopp,0,0,0,1,0,0,-1
+3280,2018-01-30,Huddersfield,Liverpool,0,3,A,0,2,A,K Friend,5,14,1,7,8,8,1,4,0,0,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,20.0,50.0,Jürgen Klopp,0,1,0,0,0,0,3
+3298,2018-04-02,Liverpool,Tottenham,2,2,D,1,0,H,J Moss,9,13,3,6,15,9,3,7,3,1,0,0,FY1718,draw,Liverpool,1,0,1,0,1,0,0,33.33,46.15,Jürgen Klopp,0,0,0,0,1,0,0
+3308,2018-11-02,Southampton,Liverpool,0,2,A,0,2,A,M Atkinson,6,16,4,4,5,8,3,1,1,2,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,66.67,25.0,Jürgen Klopp,0,1,0,0,0,0,2
+3314,2018-02-24,Liverpool,West Ham,4,1,H,1,0,H,S Attwell,21,7,12,4,7,7,8,2,0,2,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,57.14,57.14,Jürgen Klopp,1,0,0,0,0,0,3
+3322,2018-03-03,Liverpool,Newcastle,2,0,H,1,0,H,G Scott,14,7,3,2,7,9,8,3,0,0,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,21.43,28.57,Jürgen Klopp,1,0,0,0,0,0,2
+3333,2018-10-03,Man United,Liverpool,2,1,H,2,0,H,C Pawson,5,14,2,2,10,16,1,13,2,1,0,0,FY1718,Man United,Man United,0,0,0,1,0,0,1,40.0,14.29,Jürgen Klopp,0,0,0,1,0,0,-1
+3342,2018-03-17,Liverpool,Watford,5,0,H,2,0,H,A Taylor,13,4,10,1,5,4,6,1,1,0,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,76.92,25.0,Jürgen Klopp,1,0,0,0,0,0,5
+3345,2018-03-31,Crystal Palace,Liverpool,1,2,A,1,0,H,N Swarbrick,6,16,3,6,6,8,4,6,2,2,0,0,FY1718,Liverpool,Crystal Palace,3,1,0,0,0,0,1,50.0,37.5,Jürgen Klopp,0,1,0,0,0,0,1
+3356,2018-07-04,Everton,Liverpool,0,0,D,0,0,D,M Oliver,6,10,1,3,12,7,3,2,0,0,0,0,FY1718,draw,draw,1,0,1,0,0,1,1,16.67,30.0,Jürgen Klopp,0,0,0,0,0,1,0
+3367,2018-04-14,Liverpool,Bournemouth,3,0,H,1,0,H,C Kavanagh,20,6,7,1,9,9,7,5,1,1,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,35.0,16.67,Jürgen Klopp,1,0,0,0,0,0,3
+3379,2018-04-21,West Brom,Liverpool,2,2,D,0,1,A,S Attwell,13,9,6,3,12,5,7,4,0,1,0,0,FY1718,draw,Liverpool,1,0,1,0,1,0,0,46.15,33.33,Jürgen Klopp,0,0,0,0,0,1,0
+3387,2018-04-28,Liverpool,Stoke,0,0,D,0,0,D,A Marriner,20,5,2,1,7,14,9,2,1,2,0,0,FY1718,draw,draw,1,0,1,0,0,1,1,10.0,20.0,Jürgen Klopp,0,0,0,0,1,0,0
+3402,2018-06-05,Chelsea,Liverpool,1,0,H,1,0,H,A Taylor,12,10,4,5,12,9,3,1,3,2,0,0,FY1718,Chelsea,Chelsea,0,0,0,1,0,0,1,33.33,50.0,Jürgen Klopp,0,0,0,1,0,0,-1
+3413,2018-05-13,Liverpool,Brighton,4,0,H,2,0,H,K Friend,22,2,11,1,3,6,7,3,0,0,0,0,FY1718,Liverpool,Liverpool,3,1,0,0,1,0,0,50.0,50.0,Jürgen Klopp,1,0,0,0,0,0,4
+3428,2018-12-08,Liverpool,West Ham,4,0,H,2,0,H,A Taylor,18,5,8,2,14,9,5,4,1,2,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,44.44,40.0,Jürgen Klopp,1,0,0,0,0,0,4
+3439,2018-08-20,Crystal Palace,Liverpool,0,2,A,0,1,A,M Oliver,8,16,2,6,6,13,6,7,1,1,1,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,25.0,37.5,Jürgen Klopp,0,1,0,0,0,0,2
+3443,2018-08-25,Liverpool,Brighton,1,0,H,1,0,H,C Kavanagh,22,6,8,2,8,14,8,5,1,1,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,36.36,33.33,Jürgen Klopp,1,0,0,0,0,0,1
+3454,2018-01-09,Leicester,Liverpool,1,2,A,0,2,A,P Tierney,12,10,5,4,9,12,4,4,3,2,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,41.67,40.0,Jürgen Klopp,0,1,0,0,0,0,1
+3465,2018-09-15,Tottenham,Liverpool,1,2,A,0,1,A,M Oliver,11,17,3,10,17,16,5,4,0,0,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,27.27,58.82,Jürgen Klopp,0,1,0,0,0,0,1
+3476,2018-09-22,Liverpool,Southampton,3,0,H,3,0,H,P Tierney,12,7,4,1,7,10,5,4,0,2,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,33.33,14.29,Jürgen Klopp,1,0,0,0,0,0,3
+3481,2018-09-29,Chelsea,Liverpool,1,1,D,1,0,H,A Marriner,10,13,4,6,7,9,4,4,0,2,0,0,FY1819,draw,Chelsea,1,0,1,0,0,0,1,40.0,46.15,Jürgen Klopp,0,0,0,0,0,1,0
+3498,2018-07-10,Liverpool,Man City,0,0,D,0,0,D,M Atkinson,7,6,2,2,10,10,2,6,1,3,0,0,FY1819,draw,draw,1,0,1,0,0,1,1,28.57,33.33,Jürgen Klopp,0,0,0,0,1,0,0
+3503,2018-10-20,Huddersfield,Liverpool,0,1,A,0,1,A,M Oliver,13,11,1,2,9,6,2,4,0,2,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,7.69,18.18,Jürgen Klopp,0,1,0,0,0,0,1
+3513,2018-10-27,Liverpool,Cardiff,4,1,H,1,0,H,S Attwell,19,2,7,1,6,4,8,0,0,0,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,36.84,50.0,Jürgen Klopp,1,0,0,0,0,0,3
+3520,2018-03-11,Arsenal,Liverpool,1,1,D,0,0,D,A Marriner,12,13,4,4,7,7,5,8,1,1,0,0,FY1819,draw,draw,1,0,1,0,0,1,1,33.33,30.77,Jürgen Klopp,0,0,0,0,0,1,0
+3538,2018-11-11,Liverpool,Fulham,2,0,H,1,0,H,P Tierney,20,8,7,3,11,9,6,3,1,1,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,35.0,37.5,Jürgen Klopp,1,0,0,0,0,0,2
+3545,2018-11-24,Watford,Liverpool,0,3,A,0,0,D,J Moss,5,10,1,7,12,13,5,5,0,0,0,1,FY1819,Liverpool,draw,3,1,0,0,0,1,1,20.0,70.0,Jürgen Klopp,0,1,0,0,0,0,3
+3559,2018-02-12,Liverpool,Everton,1,0,H,0,0,D,C Kavanagh,16,9,3,3,12,7,8,1,3,2,0,0,FY1819,Liverpool,draw,3,1,0,0,0,1,1,18.75,33.33,Jürgen Klopp,1,0,0,0,0,0,1
+3564,2018-05-12,Burnley,Liverpool,1,3,A,0,0,D,S Attwell,10,18,6,12,10,3,5,9,1,0,0,0,FY1819,Liverpool,draw,3,1,0,0,0,1,1,60.0,66.67,Jürgen Klopp,0,1,0,0,0,0,2
+3571,2018-08-12,Bournemouth,Liverpool,0,4,A,0,1,A,L Mason,8,10,2,4,9,11,6,6,2,1,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,25.0,40.0,Jürgen Klopp,0,1,0,0,0,0,4
+3588,2018-12-16,Liverpool,Man United,3,1,H,1,1,D,M Atkinson,36,6,11,2,6,14,13,2,0,2,0,0,FY1819,Liverpool,draw,3,1,0,0,0,1,1,30.56,33.33,Jürgen Klopp,1,0,0,0,0,0,2
+3590,2018-12-21,Wolves,Liverpool,0,2,A,0,1,A,C Pawson,11,15,5,6,7,3,1,10,0,0,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,45.45,40.0,Jürgen Klopp,0,1,0,0,0,0,2
+3605,2018-12-26,Liverpool,Newcastle,4,0,H,1,0,H,G Scott,16,6,8,2,7,9,10,2,0,0,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,50.0,33.33,Jürgen Klopp,1,0,0,0,0,0,4
+3613,2018-12-29,Liverpool,Arsenal,5,1,H,4,1,H,M Oliver,15,8,10,2,8,13,5,3,1,2,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,66.67,25.0,Jürgen Klopp,1,0,0,0,0,0,4
+3629,2019-03-01,Man City,Liverpool,2,1,H,1,0,H,A Taylor,9,7,4,5,12,7,2,1,4,2,0,0,FY1819,Man City,Man City,0,0,0,1,0,0,1,44.44,71.43,Jürgen Klopp,0,0,0,1,0,0,-1
+3630,2019-12-01,Brighton,Liverpool,0,1,A,0,0,D,K Friend,7,10,0,3,15,5,2,7,0,0,0,0,FY1819,Liverpool,draw,3,1,0,0,0,1,1,0.0,30.0,Jürgen Klopp,0,1,0,0,0,0,1
+3642,2019-01-19,Liverpool,Crystal Palace,4,3,H,0,1,A,J Moss,19,9,9,3,6,8,8,3,0,1,1,0,FY1819,Liverpool,Crystal Palace,3,1,0,0,0,0,1,47.37,33.33,Jürgen Klopp,1,0,0,0,0,0,1
+3657,2019-01-30,Liverpool,Leicester,1,1,D,1,1,D,M Atkinson,10,5,3,2,13,6,7,1,1,3,0,0,FY1819,draw,draw,1,0,1,0,0,1,1,30.0,40.0,Jürgen Klopp,0,0,0,0,1,0,0
+3669,2019-04-02,West Ham,Liverpool,1,1,D,1,1,D,K Friend,13,11,2,6,9,11,2,5,1,1,0,0,FY1819,draw,draw,1,0,1,0,0,1,1,15.38,54.55,Jürgen Klopp,0,0,0,0,0,1,0
+3675,2019-09-02,Liverpool,Bournemouth,3,0,H,2,0,H,A Taylor,20,12,9,2,14,6,8,5,2,2,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,45.0,16.67,Jürgen Klopp,1,0,0,0,0,0,3
+3688,2019-02-24,Man United,Liverpool,0,0,D,0,0,D,M Oliver,6,7,3,1,15,17,3,7,1,3,0,0,FY1819,draw,draw,1,0,1,0,0,1,1,50.0,14.29,Jürgen Klopp,0,0,0,0,0,1,0
+3696,2019-02-27,Liverpool,Watford,5,0,H,2,0,H,G Scott,19,5,10,3,5,7,6,4,0,2,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,52.63,60.0,Jürgen Klopp,1,0,0,0,0,0,5
+3706,2019-03-03,Everton,Liverpool,0,0,D,0,0,D,M Atkinson,7,10,3,3,12,10,3,7,1,2,0,0,FY1819,draw,draw,1,0,1,0,0,1,1,42.86,30.0,Jürgen Klopp,0,0,0,0,0,1,0
+3718,2019-10-03,Liverpool,Burnley,4,2,H,2,1,H,A Marriner,23,3,5,2,4,7,7,3,2,0,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,21.74,66.67,Jürgen Klopp,1,0,0,0,0,0,2
+3723,2019-03-17,Fulham,Liverpool,1,2,A,0,1,A,C Pawson,7,16,2,6,11,7,1,10,2,1,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,28.57,37.5,Jürgen Klopp,0,1,0,0,0,0,1
+3732,2019-03-31,Liverpool,Tottenham,2,1,H,1,0,H,M Atkinson,14,11,3,2,5,8,10,3,0,1,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,21.43,18.18,Jürgen Klopp,1,0,0,0,0,0,1
+3739,2019-05-04,Southampton,Liverpool,1,3,A,1,1,D,P Tierney,11,17,1,5,8,7,7,5,2,4,0,0,FY1819,Liverpool,draw,3,1,0,0,0,1,1,9.09,29.41,Jürgen Klopp,0,1,0,0,0,0,2
+3753,2019-04-14,Liverpool,Chelsea,2,0,H,0,0,D,M Oliver,15,6,7,3,5,9,9,2,0,1,0,0,FY1819,Liverpool,draw,3,1,0,0,0,1,1,46.67,50.0,Jürgen Klopp,1,0,0,0,0,0,2
+3763,2019-04-21,Cardiff,Liverpool,0,2,A,0,0,D,M Atkinson,7,17,2,6,6,5,5,10,1,1,0,0,FY1819,Liverpool,draw,3,1,0,0,0,1,1,28.57,35.29,Jürgen Klopp,0,1,0,0,0,0,2
+3770,2019-04-26,Liverpool,Huddersfield,5,0,H,3,0,H,K Friend,21,5,7,1,5,14,4,4,0,0,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,33.33,20.0,Jürgen Klopp,1,0,0,0,0,0,5
+3783,2019-04-05,Newcastle,Liverpool,2,3,A,1,2,A,A Marriner,14,11,7,4,10,4,2,3,1,1,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,50.0,36.36,Jürgen Klopp,0,1,0,0,0,0,1
+3795,2019-12-05,Liverpool,Wolves,2,0,H,1,0,H,M Atkinson,13,7,5,2,3,11,4,1,0,2,0,0,FY1819,Liverpool,Liverpool,3,1,0,0,1,0,0,38.46,28.57,Jürgen Klopp,1,0,0,0,0,0,2
