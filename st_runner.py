@@ -100,11 +100,10 @@ shots = data[['FY','Manager','HS', 'AS', 'HST', 'AST']]#pd.pivot_table(shot,inde
 dd = shots.groupby('Manager').mean()
 
 #error at heroku deployed for index 
-dd = pd.DataFrame(dd).reset_index()
-dd = Mang.rename(columns={'Manager':'index'}).set_index('index')
+dd1 = pd.DataFrame(dd).reset_index()
+dd1 = dd1.rename(columns={'Manager':'index'}).set_index('index')
 
-
-st.line_chart(dd)
+st.line_chart(dd1)
 st.write('Liverpool has more shots taken at Home(HS) and which correlates with shots on target at home matches (HST).So, we can say that liverpool win more matches at home because they take more shots and hit the target.')
 
 
@@ -125,7 +124,7 @@ fin = transfer.merge(tra,left_on='Spending',right_on='Spending')
 
 #error at heroku deployed for index 
 
-fin = Mang.rename(columns={'Year':'index'}).set_index('index')
+fin = fin.rename(columns={'Year':'index'}).set_index('index')
 
 st.subheader('Liverpool Spending on transfers')
 
