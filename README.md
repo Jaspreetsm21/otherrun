@@ -1,4 +1,4 @@
-# Liverpool's Title Run in 30 Year: Cluster Analysis - Data Science Project Overview 
+# Liverpool's Title Run in 30 Years: Cluster Analysis - Data Science Project Overview 
 
 - Comparing Liverpool's last 10 years of performances with transfer spending each season --> there are evidence to suggest more spending leads to fewer matches been lost but there are no concrete evidence to suggest more spending lead to winning more matches.
 - Built a dashboard for Liverpool's performance in the last decade on Streamlit platform which is free and easy to share with stakeholders.
