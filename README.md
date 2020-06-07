@@ -108,7 +108,7 @@ In the plot above the elbow is at k=4 indicating the optimal k for this dataset 
 - Match result in fewer goal difference meaning majority of the matches are won or draw.
 
 
-Conclusion from K-Mean Clustering - We can see there are some evidence to suggest spending more money can result in losing less matches which means the final result is either draw or win. However, there are no concrete evidence to suggest more spending leads to more matches won and this can be seen from Cluster 2 (more spending more winning) and Cluster 4 (more spending more draws). As a Liverpool fan, I can say maybe more spending on the right players and good team environment can lead to winning more matches.
+**Conclusion** from K-Mean Clustering - We can see there are some evidence to suggest spending more money can result in losing less matches which means the final result is either draw or win. However, there are no concrete evidence to suggest more spending leads to more matches won and this can be seen from Cluster 2 (more spending more winning) and Cluster 4 (more spending more draws). As a Liverpool fan, I can say maybe more spending on the right players and good team environment can lead to winning more matches.
 
 
 # [Streamlit Dashboard](https://liverpooldashboard.herokuapp.com/)
