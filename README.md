@@ -12,15 +12,19 @@
 
 **Data Resource**: https://www.football-data.co.uk/englandm.php
 # Data Cleaning
-After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
+After downloading the data, I needed to clean it up so that it was usable for our analysis. I made the following changes and created the following variables:
 
-- Dealing with Missing Values
+Creating new variables: 
 
-- It looks like we have scraped some data that imported into wrong columns. So I'm going to filter the data for Petrol, Diesel and Hybrid cars only.
+- MatchWinners: Whether Liverpool won,draw or lost the match ?
+- FT_Winner: Whether Liverpool won or not?
+- FT_Draw: Whether Liverpool draw or not?
+- FT_Loss: Whether Liverpool lost or not?
+- Diff_Score: Difference in Goals,Final Result of the Match
 
-- creating a new column called Car_Make - that we extracted from Car_Title Column
 
-- Converting Car_Price and Car_Mileage into Numeric Values - before that I'm going to remove £ sign and comma from each of the columns
+
+
 
 # EDA
 
