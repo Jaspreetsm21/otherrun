@@ -112,12 +112,13 @@ Conclusion from K-Mean Clustering - We can see there are some evidence to sugges
 
 
 # [Streamlit Dashboard](https://liverpooldashboard.herokuapp.com/)
-Streamlit 
+Streamlit is a platform that allows users to build ML Dashboard, so for my project I created a dashboard for Liverpool's performance in the last decade. 
 
 
 # Production
+In this step, I built a Streamlit API endpoint that was hosted on a local webserver by following along with the tutorial in the reference section above. 
 
-## Setup: 
+## Setup for Deploying Streamlit Dashboard on Heroku: 
 1. Procfile
 
 ![](Images/Procfile.png)
