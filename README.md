@@ -56,7 +56,7 @@ Creating new variables:
 
 - From the graph above, Liverpool has spend on average £43.5M in transfer each season between 2011-2016 and last season liverpool spend £143M - Buying a new goalkeeper for £56M. The Correlation between transfers and winning can be seen through each season - more spending has resulted in more wins.
 
-# [Cluster Analysis] (https://github.com/Jaspreetsm21/Liverpool_title_run/blob/master/Cluster_Analysis.ipynb) 
+# [Cluster Analysis](https://github.com/Jaspreetsm21/Liverpool_title_run/blob/master/Cluster_Analysis.ipynb) 
 
 ## Is spending more money on transfers the reason for Liverpool's success?
 
