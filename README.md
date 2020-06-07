@@ -3,6 +3,7 @@
 - Comparing Liverpool's last 10 years of performances with transfer spending each season --> there are evidence to suggest more spending leads to fewer matches been lost but there are no concrete evidence to suggest more spending lead to winning more matches.
 - Built a dashboard for Liverpool's performance in the last decade on Streamlit platform which is free and easy to share with stakeholders.
 - Optimized K-Means and Hierarchical clustering methods to reach the conclusion of the analysis.
+- Built a client facing API using flask and Heroku to view that on the [Streamlit](https://liverpooldashboard.herokuapp.com/).
 
 # Code and Resources Used
 
@@ -11,6 +12,11 @@
 **Packages**: pandas, numpy, sklearn, matplotlib, seaborn,json
 
 **Data Resource**: https://www.football-data.co.uk/englandm.php
+
+**For Web Framework Requirements**: pip install -r requirements.txt
+
+**Flask and Heroku Production**: https://towardsdatascience.com/how-to-deploy-your-data-science-as-web-apps-easily-with-python-955dd462a9b5
+
 # Data Cleaning
 After downloading the data, I needed to clean it up so that it was usable for our analysis. I made the following changes and created the following variables:
 
@@ -106,6 +112,10 @@ Conclusion from K-Mean Clustering - We can see there are some evidence to sugges
 
 
 # [Streamlit Dashboard](https://liverpooldashboard.herokuapp.com/)
+Streamlit 
+
+
+# Production
 
 ## Setup: 
 1. Procfile
