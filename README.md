@@ -34,27 +34,23 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 **Insight**
 
-Average Car Prices are around £12,000 
+- The first half of the decade Liverpool had more loss compared to draw and second half of the decade it converted loss into draws, which has resulted in more winners last season.
 
-75% of cars has mileage less than 53,000 miles.
+- In the Last 10 Year, Liverpool have won over 50% of their games however the ratio of Draw and losses are pretty similar.
 
-28,000 is the average car mileage
+- Under Kloop the average target shot for both Home and away matches are lowest among his peers however he still has more wins compare to other managers. 
 
-Negative Correlation make sense as car mileage goes up the car prices comes down.
+- Jürgen Klopp has a distribution toward right hand side, he has the most draws and majority of this winners are difference of 1 or 2 goals.
 
-Hybrid cars are clearly more expensive than petrol and Diesel cars.
+- Liverpool has more shots taken at Home(HS) and which correlates with shots on target at home matches (HST).So, we can say that liverpool win more matches at home because they take more shots and hit the target.
 
-On Average Hybrid Cars are £1,500 more expensive than petrol cars. The reason could be Hybrid cars were introduced in early 2000s and its still growing in its popularity as environmental crisis are widely discussed.
+- From the graph above, Liverpool has spend on average £43.5M in transfer each season between 2011-2016 and last season liverpool spend £143M - Buying a new goalkeeper for £56M. The Correlation between transfers and winning can be seen through each season - more spending has resulted in more wins.
 
-On Average Automatic cars are £1,500 more expensive than Manual.
+# Cluster Analysis 
 
-Ford is the most listed car on AutoTrader and also it is most common car sold in UK.
+![](Images/k-meaning.png)
 
-It is interesting to see most cars listed on Auto traders shows that 2.0L producing more Automatic Cars compare to any other engine size which is mainly dominated by manual cars.
-
-
-
-
+![](Images/dendrogram.png)
 
 
 # [Streamlit Dashboard](https://liverpooldashboard.herokuapp.com/)
@@ -77,6 +73,6 @@ Streamlit python script for the dashboard
 ![](Images/req.png)
 
 
-# Cluster Analysis 
+
 
 
