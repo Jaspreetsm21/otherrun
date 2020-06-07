@@ -24,7 +24,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 # EDA
 
-![](Images/season.png)![](Images/Car2.PNG)
+![](Images/season.png)
 
 ![](Images/manager.png)
 
