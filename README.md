@@ -24,15 +24,13 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 # EDA
 
-![](Images/Car1.PNG)![](Images/Car2.PNG)
+![](Images/season.png)![](Images/Car2.PNG)
 
-![](Images/carpricevsmileage.PNG)
+![](Images/manager.png)
 
-![](corr.PNG) ![](Images/type%20of%20vehicle.PNG)
+![](Images/goal-match.png) ![](Images/goal.png)
 
-![](Images/make.PNG)
-
-![](Images/moving%20avg.PNG)
+![](Images/spending.png) ![](Images/corr.png)
 
 **Insight**
 
