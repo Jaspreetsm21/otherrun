@@ -48,9 +48,57 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 # Cluster Analysis 
 
-![](Images/k-meaning.png)
+## Is spending more money on transfers the reason for Liverpool's success?
 
-![](Images/dendrogram.png)
+
+![](Images/k-meaning.png)  ![](Images/dendrogram.png)
+
+
+In the plot above the elbow is at k=4 indicating the optimal k for this dataset is 4
+
+
+
+
+### Cluster 1 (Spending £34M - median spending results in win or draw)
+
+- Takes less shots during away matches.
+- Losing more games at home.
+- The gap between percentage of wins and draws isn't huge.
+- Wins twice as many matches at home then away.
+
+### Cluster 2 (Spending £51M - more spending more winning)
+
+- Spending more money on transfers
+
+- Scores more goals at both full time and half time
+
+- 70% of the matches result in winning
+
+- percentage of draws and losses are the same.
+
+- Match result in higher goal difference
+
+
+
+### Cluster 3 (Spending £23M - less spending more losing)
+
+- Losing twice as many matches than other groups
+- Losing more matches away
+- Fewer matches result in draw 
+- Match result in fewer goal difference meaning majority of the matches are won or lost.
+
+### Cluster 4 (Spending £49M - more spending more draws)
+
+- Scoring more goal on away matches
+
+- 34% of the matches result in draws
+
+- Higher percentage of shots are hit on target in away matches (this could be due to more shots been taken)
+
+- Match result in fewer goal difference meaning majority of the matches are won or draw.
+
+
+Conclusion from K-Mean Clustering - We can see there are some evidence to suggest spending more money can result in losing less matches which means the final result is either draw or win. However, there are no concrete evidence to suggest more spending leads to more matches won and this can be seen from Cluster 2 (more spending more winning) and Cluster 4 (more spending more draws). As a Liverpool fan, I can say maybe more spending on the right players and good team environment can lead to winning more matches.
 
 
 # [Streamlit Dashboard](https://liverpooldashboard.herokuapp.com/)
