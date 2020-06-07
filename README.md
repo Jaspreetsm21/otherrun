@@ -3,7 +3,7 @@
 - Comparing Liverpool's last 10 years of performances with transfer spending each season --> there are evidence to suggest more spending leads to fewer matches been lost but there are no concrete evidence to suggest more spending lead to winning more matches.
 - Built a dashboard for Liverpool's performance in the last decade on Streamlit platform which is free and easy to share with stakeholders.
 - Optimized K-Means and Hierarchical clustering methods to reach the conclusion of the analysis.
-- Built a client facing API using flask and Heroku to view that on the [Streamlit](https://liverpooldashboard.herokuapp.com/).
+- Built a client facing API and Heroku to view the dashboard on [Streamlit](https://liverpooldashboard.herokuapp.com/).
 
 # Code and Resources Used
 
