@@ -1,8 +1,8 @@
 # Liverpool's Title Run in 30 Year: Cluster Analysis - Data Science Project Overview 
 
-- Created a tool that estimates car prices (MAE ~ £1539) to help car owners/buyers to negotiate the deal. 
-- Scraped over 8000 car listing from auto trader using python and beautifulsoup
-- Optimized Linear, Lasso, Decision Tree and Random Forest Regressors using GridsearchCV to reach the best model.
+- Comparing Liverpool's last 10 years of performances with transfer spending each season --> there are evidence to suggest more spending leads to fewer matches been lost but there are no concrete evidence to suggest more spending lead to winning more matches.
+- Built a dashboard for Liverpool's performance in the last decade on Streamlit platform which is free and easy to share with stakeholders.
+- Optimized K-Means and Hierarchical clustering methods to reach the conclusion of the analysis.
 
 # Code and Resources Used
 
