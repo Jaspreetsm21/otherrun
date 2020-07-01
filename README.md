@@ -1,6 +1,6 @@
 # Liverpool's Title Run in 30 Years: Cluster Analysis - Data Science Project Overview 
 
-- Comparing Liverpool's last 10 years of performances with transfer spending each season --> there are evidence to suggest more spending leads to fewer matches been lost but there are no concrete evidence to suggest more spending lead to winning more matches.
+- Comparing Liverpool's last 10 years of performances with transfer spending each season --> there is evidence to suggest more spending leads to fewer matches been lost but there is no concrete evidence to suggest more spending leads to winning more matches.
 - Built a dashboard for Liverpool's performance in the last decade on Streamlit platform which is free and easy to share with stakeholders.
 - Optimized K-Means and Hierarchical clustering methods to reach the conclusion of the analysis.
 - Built a client facing API and Heroku to view the dashboard on [Streamlit](https://liverpooldashboard.herokuapp.com/).
@@ -22,11 +22,11 @@ After downloading the data, I needed to clean it up so that it was usable for ou
 
 Creating new variables: 
 
-- MatchWinners: Whether Liverpool won,draw or lost the match ?
+- MatchWinners: Whether Liverpool won,draw or lost the match?
 - FT_Winner: Whether Liverpool won or not?
 - FT_Draw: Whether Liverpool draw or not?
 - FT_Loss: Whether Liverpool lost or not?
-- Diff_Score: Difference in Goals,Final Result of the Match
+- Diff_Score: Difference in Goals, Final Result of the Match
 
 
 
@@ -44,17 +44,17 @@ Creating new variables:
 
 **Insight**
 
-- The first half of the decade Liverpool had more loss compared to draw and second half of the decade it converted loss into draws, which has resulted in more winners last season.
+- In the first half of the decade, Liverpool had more losses compared to draw and in the second half of the decade, it converted loss into draws, which has resulted in more winners last season.
 
-- In the Last 10 Year, Liverpool have won over 50% of their games however the ratio of Draw and losses are pretty similar.
+- In the Last 10 Year, Liverpool has won over 50% of their games however the ratio of Draw and losses are pretty similar.
 
-- Under Kloop the average target shot for both Home and away matches are lowest among his peers however he still has more wins compare to other managers. 
+- Under Kloop the average target shot for both Home and Away matches is lowest among his peers however he still has more wins compared to other managers. 
 
-- Jürgen Klopp has a distribution toward right hand side, he has the most draws and majority of this winners are difference of 1 or 2 goals.
+- Jürgen Klopp has a distribution toward the right-hand side, he has the most draws and the majority of these winners are difference of 1 or 2 goals.
 
-- Liverpool has more shots taken at Home(HS) and which correlates with shots on target at home matches (HST).So, we can say that liverpool win more matches at home because they take more shots and hit the target.
+- Liverpool has more shots taken at Home(HS) and which correlates with shots on target at home matches (HST). So, we can say that Liverpool wins more matches at home because they take more shots and hit the target.
 
-- From the graph above, Liverpool has spend on average £43.5M in transfer each season between 2011-2016 and last season liverpool spend £143M - Buying a new goalkeeper for £56M. The Correlation between transfers and winning can be seen through each season - more spending has resulted in more wins.
+- From the graph above, Liverpool has spent on average £43.5M in transfer each season between 2011-2016 and last season Liverpool spend £143M - Buying a new goalkeeper for £56M. The Correlation between transfers and winning can be seen through each season - more spending has resulted in more wins.
 
 # [Cluster Analysis](https://github.com/Jaspreetsm21/Liverpool_title_run/blob/master/Cluster_Analysis.ipynb) 
 
@@ -71,10 +71,10 @@ In the plot above the elbow is at k=4 indicating the optimal k for this dataset 
 
 ### Cluster 1 (Spending £34M - median spending results in win or draw)
 
-- Takes less shots during away matches.
+- Takes fewer shots during away matches.
 - Losing more games at home.
-- The gap between percentage of wins and draws isn't huge.
-- Wins twice as many matches at home then away.
+- The gap between the percentage of wins and draws isn't huge.
+- Wins twice as many matches at home than away.
 
 ### Cluster 2 (Spending £51M - more spending more winning)
 
@@ -94,8 +94,8 @@ In the plot above the elbow is at k=4 indicating the optimal k for this dataset 
 
 - Losing twice as many matches than other groups
 - Losing more matches away
-- Fewer matches result in draw 
-- Match result in fewer goal difference meaning majority of the matches are won or lost.
+- Fewer matches result in a draw 
+- Match result in fewer goal difference meaning the majority of the matches is won or lost.
 
 ### Cluster 4 (Spending £49M - more spending more draws)
 
@@ -103,20 +103,19 @@ In the plot above the elbow is at k=4 indicating the optimal k for this dataset 
 
 - 34% of the matches result in draws
 
-- Higher percentage of shots are hit on target in away matches (this could be due to more shots been taken)
+- A higher percentage of shots are hit on a target in away matches (this could be due to more shots been taken)
 
-- Match result in fewer goal difference meaning majority of the matches are won or draw.
+- Match result in fewer goal difference meaning the majority of the matches is won or draw.
 
 
-**Conclusion** from K-Mean Clustering - We can see there are some evidence to suggest spending more money can result in losing less matches which means the final result is either draw or win. However, there are no concrete evidence to suggest more spending leads to more matches won and this can be seen from Cluster 2 (more spending more winning) and Cluster 4 (more spending more draws). As a Liverpool fan, I can say maybe more spending on the right players and good team environment can lead to winning more matches.
-
+**Conclusion** from K-Mean Clustering - We can see there is some evidence to suggest spending more money can result in losing fewer matches which means the final result is either draw or win. However, there is no concrete evidence to suggest more spending leads to more matches won and this can be seen from Cluster 2 (more spending more winning) and Cluster 4 (more spending more draws). As a Liverpool fan, I can say maybe more spending on the right players and a good team environment can lead to winning more matches.
 
 # [Streamlit Dashboard](https://liverpooldashboard.herokuapp.com/)
-Streamlit is a platform that allows users to build ML Dashboard, so for my project I created a dashboard for Liverpool's performance in the last decade. 
+Streamlit is a platform that allows users to build ML Dashboard, so for my project, I created a dashboard for Liverpool's performance in the last decade. 
 
 
 # Production
-In this step, I built a Streamlit API endpoint that was hosted on a local webserver by following along with the tutorial in the reference section above. 
+In this step, I built a Streamlit API endpoint that was hosted on a local web server by following along with the tutorial in the reference section above. 
 
 ## Setup for Deploying Streamlit Dashboard on Heroku: 
 1. Procfile
